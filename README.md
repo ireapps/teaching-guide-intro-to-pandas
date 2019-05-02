@@ -51,7 +51,7 @@ Once everyone is good to go, toggle back to the terminal and show them what's go
 Go over some notebook basics: Adding cells, writing code and running cells, etc. A common beginner gotcha: Writing code that other cells depend on but forgetting to first _run_ it to make it available.
 
 ### Main course content
-Start marching down the notebook: Strings, numbers, some basic math, booleans, comparison operators, string methods, lists, dictionaries, for loops, if statements. Pause frequently to ask if anyone has questions.
+Start marching down the notebook: Importing pandas, loading data from file, sorting, filtering, grouping. Pause frequently to ask if anyone has questions.
 
 Any time you see `✍️ Try it yourself`, hit the brakes and give everyone time to play around with whatever concept you're discussing.
 
