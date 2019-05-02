@@ -2,7 +2,7 @@
 
 Thank you for volunteering to teach this one-hour session on using the `pandas` library to analyze data. This teaching guide explains our setup and the material to cover.
 
-The class is one hour long. The exercises live in [this Jupyter notebook](TK).
+The class is one hour long. The exercises live in [this Jupyter notebook](Introduction%20to%20pandas.ipynb).
 
 It would be a good idea to [take a spin through the notebook](#run-the-notebook) prior to teaching the session.
 
