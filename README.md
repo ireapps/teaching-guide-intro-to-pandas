@@ -70,7 +70,7 @@ Unlikely! But if you have extra time, oversee some unstructured lab time -- they
 
 You'll need the latest version of Python 3 and [pipenv](https://pipenv.readthedocs.io) installed on your computer. [Here's our install guide](https://docs.google.com/document/d/1cYmpfZEZ8r-09Q6Go917cKVcQk_d0P61gm0q8DAdIdg/edit?usp=sharing).
 
-1. Clone or [download/unzip](https://github.com/ireapps/teaching-guide-python-101/archive/master.zip) this repo onto your computer
+1. Clone or [download/unzip](https://github.com/ireapps/teaching-guide-intro-to-pandas/archive/master.zip) this repo onto your computer
 2. In your command-line interface, `cd` into the folder
 3. `pipenv install`
 4. `pipenv shell`
