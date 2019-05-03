@@ -33,7 +33,7 @@ I Do, We Do, You Do. Demonstrate a concept, go through it together, then give th
 Most people who come to this class will have _zero_ experience with programming, so be empathetic and try to remember how frustrating it is to feel lost.
 
 ## Class setup
-We'll have the latest version of Python 3 and [pipenv](https://pipenv.readthedocs.io) to manage the virtual environment and one dependency (`jupyter`), which will already have been installed and tested prior to your session.
+We'll have the latest version of Python 3 and [pipenv](https://pipenv.readthedocs.io) to manage the virtual environment and dependencies (`jupyter` and `pandas`), which will already have been installed and tested prior to your session.
 
 ## Class outline
 
