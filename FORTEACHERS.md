@@ -7,9 +7,9 @@ The class is one hour long. The exercises live in [this Jupyter notebook](Introd
 It would be a good idea to [take a spin through the notebook](#run-the-notebook) prior to teaching the session.
 
 ## Session description
-Imagine rolling Excel and MySQL into one tool that also allows you to track your code and share it. That's `pandas` in a nutshell. There's a lot more you can do with it, of course, but this will be a good start. We'll learn how to slice and dice our data and extract basic stats. Specifically, we'll cover loading the data, filtering, sorting and grouping data. 
+In this session, you'll learn how to analyze data using the popular Python data analysis library pandas. You'll learn about the benefits of scripting your data projects and enough syntax to load, sort, filter and group a data set.
 
-This class is good for: People who are comfortable with Excel and are familiar with the basics of SQL and Python. We recommend that you attend a Python 101 session or have equivalent experience before coming to this class.
+This class is good for: People who are comfortable working with data in spreadsheets or SQL and want to make the leap to programming.
 
 ## Session goals
 Attendees should leave with a basic understanding of:
@@ -27,6 +27,8 @@ Attendees should leave with a basic understanding of:
 I Do, We Do, You Do. Demonstrate a concept, go through it together, then give them plenty of time to experiment on their own while you and your coach walk around and answer questions (see sections marked `✍️ Try it yourself`). The pace will be slower than you think, and that's OK! It's not the end of the world if you don't get through everything.
 
 Most people who come to this class will have _zero_ experience with programming, so be empathetic and try to remember how frustrating it is to feel lost.
+
+Having the students open [the included syntax reference notebook](Python%20syntax%20cheat%20sheet.ipynb) can be useful for reinforcing Python basics. 
 
 ## Class setup
 We'll have the latest version of Python 3 installed. We're using the standard library's `venv` module to manage the virtual environment and project dependencies (`jupyter` and `pandas`), which will already have been installed and tested prior to your session. Please refer to the Python setup sheet for the conference and let us know if you have any questions.
@@ -57,7 +59,7 @@ Any time you see `✍️ Try it yourself`, hit the brakes and give everyone time
 If you can, find an opportunity when someone has gotten an error and take 5 minutes to walk through basic debugging strategy: Reading the traceback error from bottom to top, strategic Googling, etc.
 
 ### If you have extra time at the end
-Unlikely! But if you have extra time, oversee some unstructured lab time -- they can practice syntax or look up additional methods, etc.
+Unlikely! But if you have extra time, oversee some unstructured lab time -- they can practice syntax or look up additional methods, find their own data to work with, etc.
 
 ### Ending the session
 1. Have everyone close out of their notebook tabs
