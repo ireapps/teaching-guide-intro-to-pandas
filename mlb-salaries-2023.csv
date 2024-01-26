@@ -1,0 +1,945 @@
+year,name_last,name_first,team,position,salary,years,total_value,avg_annual
+2023,Bumgarner,Madison,Arizona,LHP,21882892,5 (2020-24),85000000.0,17000000.0
+2023,Marte,Ketel,Arizona,2B,11600000,5 (2023-28),76000000.0,15200000.0
+2023,Ahmed,Nick,Arizona,SS,10375000,4 (2020-23),32500000.0,8125000.0
+2023,Kelly,Merrill,Arizona,RHP,8500000,2 (2023-24),18000000.0,9000000.0
+2023,Walker,Christian,Arizona,1B,6500000,,,
+2023,Melancon,Mark*,Arizona,RHP,6000000,2 (2022-23),14000000.0,7000000.0
+2023,Gallen,Zac,Arizona,RHP,5600000,,,
+2023,Chafin,Andrew,Arizona,LHP,5500000,,,
+2023,Gurriel,Lourdes,Arizona,OF,5400000,7 (2017-23),22000000.0,3142857.1429
+2023,Davies,Zac,Arizona,RHP,4700000,,,
+2023,Kelly,Carson*,Arizona,C,4275000,,,
+2023,Longoria,Evan,Arizona,3B,4000000,,,
+2023,Castro,Miguel,Arizona,RHP,3500000,,,
+2023,Rojas,Josh,Arizona,2B,2575000,,,
+2023,McGough,Scott,Arizona,RHP,2500000,2 (2023-24),6250000.0,3125000.0
+2023,Carroll,Corbin,Arizona,OF,1625000,8 (2023-31),111000000.0,13875000.0
+2023,Lewis,Kyle,Arizona,OF,1610000,,,
+2023,Sulser,Cole,Arizona,RHP,825000,,,
+2023,Mantiply,Joe*,Arizona,LHP,756000,,,
+2023,Ginkel,Kevin,Arizona,RHP,746600,,,
+2023,Perdomo,Geraldo,Arizona,SS,738600,,,
+2023,McCarthy,Jake,Arizona,OF,735600,,,
+2023,Thomas,Alek,Arizona,OF,735200,,,
+2023,Nelson,Kyle,Arizona,LHP,728900,,,
+2023,Martin,Corbin*,Arizona,RHP,728400,,,
+2023,Herrera,Jose,Arizona,C,724300,,,
+2023,Jameson,Drey,Arizona,RHP,723600,,,
+2023,Nelson,Ryne,Arizona,RHP,722700,,,
+2023,Moreno,Gabriel,Arizona,C,722500,,,
+2023,Vargas,Carlos,Arizona,RHP,721000,,,
+2023,Robinson,Kristian**,Arizona,OF,720000,,,
+2023,Olson,Matt,Atlanta,1B,21000000,8 (2022-29),168000000.0,21000000.0
+2023,Morton,Charlie,Atlanta,RHP,20000000,,,
+2023,Ozuna,Marcell,Atlanta,OF,18000000,4 (2021-24),65000000.0,16250000.0
+2023,Acuna,Ronald,Atlanta,OF,17000000,8 (2019-26),100000000.0,12500000.0
+2023,Iglesias,Raisel*,Atlanta,RHP,16000000,4 (2022-25),58000000.0,14500000.0
+2023,Riley,Austin,Atlanta,3B,15000000,10 (2023-32),212000000.0,21200000.0
+2023,Fried,Max,Atlanta,LHP,13500000,,,
+2023,Rosario,Eddie,Atlanta,OF,9000000,2 (2022-23),18000000.0,9000000.0
+2023,D'Arnaud,Travis,Atlanta,C,8000000,2 (2022-23),16000000.0,8000000.0
+2023,Albies,Ozzie,Atlanta,2B,7000000,7 (2019-25),35000000.0,5000000.0
+2023,Yates,Kirby,Atlanta,RHP,6000000,2 (2022-23),8250000.0,4125000.0
+2023,Harris,Michael,Atlanta,OF,5000000,8 (2023-30),72000000.0,9000000.0
+2023,McHugh,Collin,Atlanta,RHP,5000000,2 (2022-23),10000000.0,5000000.0
+2023,Minter,A.J.,Atlanta,LHP,4287500,,,
+2023,Murphy,Sean,Atlanta,C,4000000,6 (2023-28),73000000.0,12166667.0
+2023,Pillar,Kevin,Atlanta,OF,3000000,,,
+2023,Jimenez,Joe,Atlanta,RHP,2765000,,,
+2023,Arcia,Orlando,Atlanta,SS,2300000,2 (2022-23),3000000.0,1500000.0
+2023,Luetge,Lucas,Atlanta,LHP,1550000,,,
+2023,Chavez,Jesse,Atlanta,RHP,1200000,,,
+2023,Matzek,Tyler*,Atlanta,LHP,1200000,,,
+2023,Adrianza,Ehire,Atlanta,3B,1000000,,,
+2023,Strider,Spencer,Atlanta,RHP,1000000,6 (2023-28),75000000.0,12500000.0
+2023,Anderson,Nick,Atlanta,RHP,875000,,,
+2023,Allard,Kolby*,Atlanta,LHP,750000,,,
+2023,Hilliard,Sam,Atlanta,OF,750000,,,
+2023,Tonkin,Michael,Atlanta,RHP,750000,,,
+2023,Wright,Kyle*,Atlanta,RHP,750000,,,
+2023,Ynoa,Huascar*,Atlanta,RHP,750000,,,
+2023,Lee,Dylan,Atlanta,LHP,730000,,,
+2023,Shuster,Jared,Atlanta,LHP,720000,,,
+2023,McCann,James*,Baltimore,C,12000000,4 (2021-24),40600000.0,10150000.0
+2023,Gibson,Kyle,Baltimore,RHP,10000000,,,
+2023,Frazier,Adam,Baltimore,2B,8000000,,,
+2023,Santander,Anthony,Baltimore,OF,7400000,,,
+2023,Mullins II,Cedric,Baltimore,OF,4100000,,,
+2023,Hays,Austin,Baltimore,OF,3200000,,,
+2023,Givens,Mychal*,Baltimore,RHP,3000000,,,
+2023,Means,John*,Baltimore,LHP,2975000,,,
+2023,Mateo,Jorge,Baltimore,OF,2000000,,,
+2023,Voth,Austin,Baltimore,RHP,1850000,,,
+2023,Tate,Dillon*,Baltimore,RHP,1500000,,,
+2023,Coulombe,Daniel,Baltimore,LHP,1000000,,,
+2023,Bemboom,Anthony,Baltimore,C,900000,,,
+2023,Mountcastle,Ryan,Baltimore,1B,738400,,,
+2023,Irvin,Cole,Baltimore,LHP,737600,,,
+2023,Urias,Ramon,Baltimore,2B,734700,,,
+2023,Rutschman,Adley,Baltimore,C,733900,,,
+2023,Wells,Tyler,Baltimore,RHP,732400,,,
+2023,Perez,Cionel,Baltimore,LHP,732300,,,
+2023,Bautista,Felix,Baltimore,RHP,731800,,,
+2023,Kremer,Dean,Baltimore,RHP,731200,,,
+2023,Akin,Keegan,Baltimore,LHP,731100,,,
+2023,Baker,Bryan,Baltimore,RHP,729000,,,
+2023,Bradish,Kyle,Baltimore,RHP,728100,,,
+2023,McKenna,Ryan,Baltimore,OF,725800,,,
+2023,Henderson,Gunnar,Baltimore,SS,723200,,,
+2023,Baumann,Michael,Baltimore,RHP,722300,,,
+2023,Stowers,Kyle,Baltimore,OF,722200,,,
+2023,Vavra,Terrin,Baltimore,SS,722100,,,
+2023,Gillaspie,Logan,Baltimore,RHP,721200,,,
+2023,Sale,Chris,Boston,LHP,21672484,5 (2020-24),145000000.0,29000000.0
+2023,Story,Trevor*,Boston,2B,20000000,6 (2022-27),140000000.0,23333333.3333
+2023,Devers,Rafael,Boston,3B,17500000,10 (2024-33),313500000.0,31350000.0
+2023,Jansen,Kenley,Boston,RHP,16000000,2 (2023-24),32000000.0,16000000.0
+2023,Yoshida,Masataka,Boston,OF,15600000,5 (2023-27),90000000.0,18000000.0
+2023,Hernandez,Enrique,Boston,SS,10000000,,,
+2023,Kluber,Corey,Boston,RHP,10000000,,,
+2023,Turner,Justin,Boston,3B,8300000,2 (2023-24),21700000.0,10850000.0
+2023,Martin,Chris,Boston,RHP,8000000,2 (2023-24),17500000.0,8750000.0
+2023,Duvall,Adam,Boston,OF,7000000,,,
+2023,Verdugo,Alex,Boston,OF,6300000,,,
+2023,Pivetta,Nick,Boston,RHP,5350000,,,
+2023,Paxton,James*,Boston,LHP,4000000,,,
+2023,Bleier,Richard,Boston,LHP,3500000,2 (2022-23),6000000.0,3000000.0
+2023,Mondesi,Adalberto*,Boston,SS,3045000,,,
+2023,Arroyo,Christian,Boston,3B,2000000,,,
+2023,Brasier,Ryan,Boston,RHP,2000000,,,
+2023,Tapia,Raimel,Boston,OF,2000000,,,
+2023,Rodriguez,Joely*,Boston,LHP,1500000,,,
+2023,Whitlock,Garrett*,Boston,RHP,1250000,4 (2023-26),18750000.0,4687500.0
+2023,McGuire,Reese,Boston,C,1225000,,,
+2023,Refsnyder,Rob,Boston,OF,1200000,,,
+2023,Chang,Yu-Cheng,Boston,2B,850000,,,
+2023,Schreiber,John,Boston,RHP,750000,,,
+2023,Houck,Tanner,Boston,RHP,740000,,,
+2023,Crawford,Kutter,Boston,RHP,730000,,,
+2023,Bello,Brayan*,Boston,RHP,729500,,,
+2023,Mills,Wyatt*,Boston,RHP,727500,,,
+2023,Casas,Triston,Boston,1B,723500,,,
+2023,Kelly,Zack,Boston,RHP,723500,,,
+2023,Ort,Kaleb,Boston,RHP,722000,,,
+2023,Winckowski,Josh,Boston,RHP,722000,,,
+2023,Wong,Connor,Boston,C,722000,,,
+2023,Stroman,Marcus,Chicago Cubs,RHP,25000000,3 (2022-24),71000000.0,23666666.6667
+2023,Suzuki,Seiya*,Chicago Cubs,OF,18000000,5 (2022-26),85000000.0,17000000.0
+2023,Hendricks,Kyle*,Chicago Cubs,RHP,14500000,4 (2020-23),55500000.0,13875000.0
+2023,Swanson,Dansby,Chicago Cubs,SS,14000000,7 (2023-29),177000000.0,25285714.0
+2023,Taillon,Jameson,Chicago Cubs,RHP,14000000,4 (2023-26),68000000.0,17000000.0
+2023,Hosmer,Eric,Chicago Cubs,1B,13000000,8 (2018-25),144000000.0,18000000.0
+2023,Bellinger,Cody,Chicago Cubs,OF,12500000,,,
+2023,Happ,Ian,Chicago Cubs,OF,10850000,,,
+2023,Smyly,Drew,Chicago Cubs,LHP,8000000,2 (2023-24),19000000.0,9500000.0
+2023,Mancini,Trey,Chicago Cubs,1B,7000000,2 (2023-24),14000000.0,7000000.0
+2023,Gomes,Yan,Chicago Cubs,C,6000000,2 (2022-23),13000000.0,6500000.0
+2023,Fulmer,Michael,Chicago Cubs,RHP,4000000,,,
+2023,Barnhart,Tucker,Chicago Cubs,C,3250000,2 (2023-24),6500000.0,3250000.0
+2023,Hoerner,Nico,Chicago Cubs,SS,2525000,,,
+2023,Boxberger,Brad,Chicago Cubs,RHP,2000000,,,
+2023,Madrigal,Nick,Chicago Cubs,2B,1225000,,,
+2023,Torrens,Luis,Chicago Cubs,C,1200000,,,
+2023,Rios,Edwin,Chicago Cubs,3B,1000000,,,
+2023,Leiter Jr.,Mark,Chicago Cubs,RHP,850000,,,
+2023,Heuer,Codi*,Chicago Cubs,RHP,785000,,,
+2023,Wisdom,Patrick,Chicago Cubs,1B,763000,,,
+2023,Alzolay,Adbert,Chicago Cubs,RHP,744750,,,
+2023,Steele,Justin,Chicago Cubs,LHP,740000,,,
+2023,Thompson,Keegan,Chicago Cubs,RHP,740000,,,
+2023,Merryweather,Julian,Chicago Cubs,RHP,737000,,,
+2023,Rucker,Michael,Chicago Cubs,RHP,737000,,,
+2023,Hughes,Brandon*,Chicago Cubs,LHP,728000,,,
+2023,Assad,Javier,Chicago Cubs,RHP,721500,,,
+2023,Wesneski,Hayden,Chicago Cubs,RHP,721500,,,
+2023,Roberts,Ethan*,Chicago Cubs,RHP,721000,,,
+2023,Mastrobuoni,Miles,Chicago Cubs,2B,720500,,,
+2023,Lynn,Lance,Chicago White Sox,RHP,18500000,2 (2022-23),38000000.0,19000000.0
+2023,Grandal,Yasmani,Chicago White Sox,C,18250000,4 (2020-23),73000000.0,18250000.0
+2023,Moncada,Yoan,Chicago White Sox,3B,17800000,5 (2020-24),70000000.0,14000000.0
+2023,Hendriks,Liam*,Chicago White Sox,RHP,14333333,3 (2021-23),54000000.0,18000000.0
+2023,Anderson,Tim,Chicago White Sox,SS,12500000,,,
+2023,Giolito,Lucas,Chicago White Sox,RHP,10400000,,,
+2023,Jimenez,Eloy,Chicago White Sox,OF,10333333,6 (2019-24),43000000.0,7166666.6667
+2023,Robert,Luis,Chicago White Sox,OF,9500000,6 (2020-25),50000000.0,8333333.3333
+2023,Kelly,Joe,Chicago White Sox,RHP,9000000,2 (2022-23),17000000.0,8500000.0
+2023,Benintendi,Andrew,Chicago White Sox,OF,8600000,5 (2023-27),75000000.0,15000000.0
+2023,Clevinger,Michael,Chicago White Sox,RHP,8000000,,,
+2023,Graveman,Kendall,Chicago White Sox,RHP,8000000,3 (2022-24),24000000.0,8000000.0
+2023,Cease,Dylan,Chicago White Sox,RHP,5700000,,,
+2023,Bummer,Aaron,Chicago White Sox,LHP,3750000,5 (2020-24),16000000.0,3200000.0
+2023,Lopez,Reynaldo,Chicago White Sox,RHP,3625000,,,
+2023,Diekman,Jake,Chicago White Sox,LHP,3500000,2 (2022-23),8000000.0,4000000.0
+2023,Andrus,Elvis,Chicago White Sox,SS,3000000,,,
+2023,Kopech,Michael,Chicago White Sox,RHP,2050000,,,
+2023,Alberto,Hanser,Chicago White Sox,2B,1300000,,,
+2023,Ruiz,Jose,Chicago White Sox,RHP,925000,,,
+2023,Vaughn,Andrew,Chicago White Sox,1B,760000,,,
+2023,Lambert,James,Chicago White Sox,RHP,735000,,,
+2023,Sheets,Gavin,Chicago White Sox,1B,735000,,,
+2023,Foster,Matt*,Chicago White Sox,RHP,734000,,,
+2023,Crochet,Garrett*,Chicago White Sox,LHP,733000,,,
+2023,Zavala,Seby,Chicago White Sox,C,732000,,,
+2023,Gonzalez,Roman,Chicago White Sox,SS,723000,,,
+2023,Colas,Oscar,Chicago White Sox,OF,720000,,,
+2023,Santos,Gregory,Chicago White Sox,RHP,720000,,,
+2023,Votto,Joey*,Cincinnati,1B,25000000,10 (2014-23),225000000.0,22500000.0
+2023,Myers,Wil,Cincinnati,OF,6000000,,,
+2023,Newman,Kevin,Cincinnati,2B,2662500,,,
+2023,Cessa,Luis,Cincinnati,RHP,2650000,,,
+2023,Casali,Curt,Cincinnati,C,2500000,,,
+2023,Weaver,Luke*,Cincinnati,RHP,2000000,,,
+2023,Senzel,Nick*,Cincinnati,OF,1950000,,,
+2023,Farmer,Buck,Cincinnati,RHP,1725000,,,
+2023,Sims,Lucas*,Cincinnati,RHP,1267500,,,
+2023,Maile,Luke,Cincinnati,C,1175000,,,
+2023,Young,Alex,Cincinnati,LHP,1150000,,,
+2023,Law,Derek,Cincinnati,RHP,1000000,,,
+2023,Vosler,Jason,Cincinnati,3B,1000000,,,
+2023,Dunn,Justin*,Cincinnati,RHP,900000,,,
+2023,Antone,Tejay*,Cincinnati,RHP,770000,,,
+2023,India,Jonathan,Cincinnati,3B,760000,,,
+2023,Fraley,Jake,Cincinnati,OF,740000,,,
+2023,Stephenson,Tyler,Cincinnati,C,740000,,,
+2023,Diaz,Alexis,Cincinnati,RHP,730000,,,
+2023,Garcia,Jose,Cincinnati,SS,730000,,,
+2023,Gibaut,Ian,Cincinnati,RHP,730000,,,
+2023,Greene,Hunter,Cincinnati,RHP,730000,,,
+2023,Gutierrez,Vladimir*,Cincinnati,RHP,730000,,,
+2023,Kuhnel,Joel,Cincinnati,RHP,730000,,,
+2023,Lodolo,Nick,Cincinnati,LHP,730000,,,
+2023,Overton,Connor,Cincinnati,RHP,730000,,,
+2023,Santillan,Antonio*,Cincinnati,RHP,730000,,,
+2023,Ashcraft,Graham,Cincinnati,RHP,722500,,,
+2023,Fairchild,Stuart,Cincinnati,OF,722500,,,
+2023,Friedl Jr,Terry,Cincinnati,OF,722500,,,
+2023,Sanmartin,Reiver,Cincinnati,LHP,722500,,,
+2023,Benson,Will,Cincinnati,OF,720000,,,
+2023,Cruz,Fernando,Cincinnati,RHP,720000,,,
+2023,Steer,Spencer,Cincinnati,3B,720000,,,
+2023,Bell,Josh,Cleveland,DH,16500000,2 (2023-24),33000000.0,16500000.0
+2023,Ramirez,Jose,Cleveland,3B,14000000,7 (2022-28),141000000.0,20142857.1429
+2023,Bieber,Shane,Cleveland,RHP,10010000,,,
+2023,Rosario,Amed,Cleveland,SS,7800000,,,
+2023,Zunino,Mike,Cleveland,C,6000000,,,
+2023,Quantrill,Cal,Cleveland,RHP,5550000,,,
+2023,Naylor,Josh,Cleveland,OF,3350000,,,
+2023,Plesac,Zach,Cleveland,RHP,2950000,,,
+2023,Straw,Myles,Cleveland,OF,2900000,,,
+2023,Civale,Aaron,Cleveland,RHP,2600000,,,
+2023,Clase,Emmanuel,Cleveland,RHP,1900000,,,
+2023,Gimenez,Andres,Cleveland,SS,1571429,7 (2023-29),106500000.0,15214286.0
+2023,Karinchak,James,Cleveland,RHP,1500000,,,
+2023,Stephan,Trevor,Cleveland,RHP,1350000,4 (2023-26),10000000.0,2500000.0
+2023,Gallagher,Cam,Cleveland,C,1250000,,,
+2023,Viloria,Meibrys,Cleveland,C,750000,,,
+2023,De Los Santos,Enyel,Cleveland,RHP,750000,,,
+2023,McKenzie,Triston*,Cleveland,RHP,739500,,,
+2023,Hentges,Sam*,Cleveland,LHP,730200,,,
+2023,Kwan,Steven,Cleveland,OF,727300,,,
+2023,Morgan,Eli,Cleveland,RHP,727000,,,
+2023,Sandlin,Nick,Cleveland,RHP,726000,,,
+2023,Gonzalez,Oscar,Cleveland,OF,722600,,,
+2023,Morris,Cody*,Cleveland,RHP,720200,,,
+2023,Arias,Gabriel,Cleveland,SS,720100,,,
+2023,Brennan,Will,Cleveland,OF,720100,,,
+2023,Curry,Xzavion,Cleveland,RHP,720100,,,
+2023,Gaddis,Hunter,Cleveland,RHP,720100,,,
+2023,Herrin,Tim,Cleveland,LHP,720000,,,
+2023,Bryant,Kris,Colorado,OF,28000000,7 (2022-28),182000000.0,26000000.0
+2023,Moustakas,Mike,Colorado,3B,18000000,4 (2020-23),64000000.0,16000000.0
+2023,Marquez,German,Colorado,RHP,15300000,5 (2019-23),43000000.0,8600000.0
+2023,Blackmon,Charlie,Colorado,DH,15000000,6 (2018-23),108000000.0,18000000.0
+2023,Freeland,Kyle,Colorado,LHP,10500000,5 (2022-26),64500000.0,12900000.0
+2023,Bard,Daniel*,Colorado,RHP,9500000,,,
+2023,Grichuk,Randal*,Colorado,OF,9333333,5 (2019-23),52000000.0,10400000.0
+2023,McMahon,Ryan,Colorado,2B,9000000,6 (2022-27),70000000.0,11666667.0
+2023,Profar,Jurickson,Colorado,OF,7710778,,,
+2023,Cron,C.J.,Colorado,1B,7500000,2 (2022-23),14500000.0,7250000.0
+2023,Senzatela,Antonio*,Colorado,RHP,7250000,5 (2022-26),50500000.0,10100000.0
+2023,Diaz,Elias,Colorado,C,5500000,3 (2022-24),14500000.0,4833333.3333
+2023,Johnson,Pierce,Colorado,RHP,5000000,,,
+2023,Lamet,Dinelson,Colorado,RHP,5000000,,,
+2023,Urena,Jose,Colorado,RHP,3000000,,,
+2023,Suter,Brent,Colorado,LHP,3000000,,,
+2023,Rodgers,Brendan*,Colorado,2B,2700000,,,
+2023,Gomber,Austin,Colorado,LHP,1650000,,,
+2023,Hand,Brad,Colorado,LHP,1500000,,,
+2023,Castro,Harold,Colorado,1B,1300000,,,
+2023,Kinley,Tyler*,Colorado,RHP,1200000,,,
+2023,Blach,Ty,Colorado,LHP,1100000,,,
+2023,Daza,Yonathan,Colorado,C,730000,,,
+2023,Gilbreath,Lucas*,Colorado,LHP,725000,,,
+2023,Rolison,Ryan*,Colorado,LHP,725000,,,
+2023,Bird,Jacob,Colorado,RHP,722000,,,
+2023,Bouchard,Sean*,Colorado,RHP,722000,,,
+2023,Feltner,Ryan,Colorado,RHP,722000,,,
+2023,Lawrence,Justin,Colorado,RHP,722000,,,
+2023,Montero,Elehuris,Colorado,3B,722000,,,
+2023,Seabold,Connor,Colorado,RHP,722000,,,
+2023,Serven,Brian,Colorado,C,722000,,,
+2023,Tovar,Ezequiel,Colorado,SS,722000,,,
+2023,Trejo,Alan,Colorado,SS,722000,,,
+2023,Cabrera,Miguel,Detroit,DH,32000000,8 (2016-23),248000000.0,31000000.0
+2023,Baez,Javier,Detroit,SS,22000000,6 (2022-27),140000000.0,23333333.3333
+2023,Rodriguez,Eduardo,Detroit,LHP,14000000,5 (2022-26),77000000.0,15400000.0
+2023,Boyd,Matt,Detroit,LHP,10000000,,,
+2023,Lorenzen,Michael*,Detroit,RHP,8500000,,,
+2023,Schoop,Jonathan,Detroit,2B,7500000,,,
+2023,Meadows,Austin,Detroit,LHP,4300000,,,
+2023,Cisnero,Jose,Detroit,RHP,2287500,,,
+2023,Turnbull,Spencer,Detroit,RHP,2150000,,,
+2023,Alexander,Tyler,Detroit,LHP,1875000,,,
+2023,Shreve,Chasen,Detroit,LHP,1250000,,,
+2023,Wingenter,Trey,Detroit,RHP,1000000,,,
+2023,Skubal,Tarik*,Detroit,LHP,743700,,,
+2023,Haase,Eric,Detroit,C,740100,,,
+2023,McKinstry,Zach,Detroit,2B,734500,,,
+2023,Mize,Casey*,Detroit,RHP,734200,,,
+2023,Manning,Matt,Detroit,RHP,729200,,,
+2023,Greene,Riley,Detroit,OF,727800,,,
+2023,Vierling,Matt,Detroit,OF,727100,,,
+2023,Maton,Nick,Detroit,OF,726600,,,
+2023,Foley,Jason,Detroit,RHP,726200,,,
+2023,Lange,Alex,Detroit,RHP,726000,,,
+2023,Rogers,Jake,Detroit,C,726000,,,
+2023,Brieske,Beau*,Detroit,RHP,724400,,,
+2023,Carpenter,Kerry,Detroit,OF,723700,,,
+2023,Wentz,Joey,Detroit,LHP,723500,,,
+2023,Torkelson,Spencer,Detroit,1B,723100,,,
+2023,Nevin,Tyler*,Detroit,3B,723000,,,
+2023,Hill,Garrett,Detroit,RHP,722300,,,
+2023,Kreidler,Ryan,Detroit,SS,721600,,,
+2023,Englert,Mason,Detroit,RHP,720000,,,
+2023,Pacheco,Freddy*,Detroit,RHP,720000,,,
+2023,Bregman,Alex,Houston,3B,30500000,5 (2020-24),100000000.0,20000000.0
+2023,Altuve,Jose*,Houston,2B,29000000,7 (2018-19),163500000.0,23357142.8571
+2023,Abreu,Jose,Houston,1B,19500000,3 (2023-25),58500000.0,19500000.0
+2023,McCullers,Lance*,Houston,RHP,15950000,5 (2022-26),85000000.0,17000000.0
+2023,Pressly,Ryan,Houston,RHP,14000000,,,
+2023,Brantley,Michael*,Houston,OF,12000000,,,
+2023,Montero,Rafael,Houston,RHP,11500000,3 (2023-25),34500000.0,11500000.0
+2023,Neris,Hector,Houston,RHP,8000000,2 (2022-23),17000000.0,8500000.0
+2023,Alvarez,Yordan,Houston,DH,7833333,,,
+2023,Valdez,Framber,Houston,LHP,6800000,,,
+2023,Maldonado,Martin,Houston,C,5000000,,,
+2023,Tucker,Kyle,Houston,OF,5000000,,,
+2023,Stanek,Ryne,Houston,RHP,3600000,,,
+2023,Javier,Cristian,Houston,RHP,3400000,5 (2023-27),64000000.0,12800000.0
+2023,Hernandez,Jose,Houston,RHP,3025000,,,
+2023,Maton,Phil,Houston,RHP,2550000,,,
+2023,Dubon,Mauricio,Houston,OF,1400000,,,
+2023,Taylor,Blake*,Houston,LHP,830000,,,
+2023,Garcia,Luis,Houston,RHP,763200,,,
+2023,Pena,Jeremy,Houston,SS,754900,,,
+2023,McCormick,Chas,Houston,OF,752500,,,
+2023,Abreu,Bryan,Houston,RHP,745200,,,
+2023,Meyers,Jake,Houston,OF,732000,,,
+2023,Martinez,Seth,Houston,RHP,730200,,,
+2023,Brown,Hunter,Houston,RHP,725000,,,
+2023,Hensley,David,Houston,SS,722600,,,
+2023,Mushinski,Parker*,Houston,LHP,721800,,,
+2023,Blanco,Ronel,Houston,RHP,721200,,,
+2023,Diaz,Yainer,Houston,C,720300,,,
+2023,Julks,Corey,Houston,OF,720000,,,
+2023,Salazar,Cesar,Houston,C,720000,,,
+2023,Perez,Salvador,Kansas City,C,20000000,4 (2022-25),82000000.0,20500000.0
+2023,Greinke,Zack,Kansas City,RHP,8500000,,,
+2023,Lyles,Jordan,Kansas City,RHP,8500000,2 (2023-24),17000000.0,8500000.0
+2023,Dozier,Hunter,Kansas City,3B,7500000,4 (2021-24),25000000.0,6250000.0
+2023,Keller,Brad,Kansas City,RHP,5775000,,,
+2023,Barlow,Scott,Kansas City,RHP,5300000,,,
+2023,Chapman,Aroldis,Kansas City,LHP,3750000,,,
+2023,Lopez,Nicky,Kansas City,2B,3700000,,,
+2023,Yarbrough,Ryan,Kansas City,LHP,3000000,,,
+2023,Singer,Brady,Kansas City,RHP,2950000,,,
+2023,Garrett,Amir,Kansas City,LHP,2650000,,,
+2023,Bubic,Kris,Kansas City,LHP,2200000,,,
+2023,Reyes,Franmil,Kansas City,DH,2000000,,,
+2023,Duffy,Matt,Kansas City,3B,1500000,,,
+2023,Clarke,Taylor,Kansas City,RHP,1150000,,,
+2023,Bradley,Jackie,Kansas City,OF,900000,,,
+2023,Brentz,Jake*,Kansas City,LHP,850000,2 (2023-24),1900000.0,950000.0
+2023,Witt Jr,Bobby,Kansas City,SS,745750,,,
+2023,Olivares,Edward,Kansas City,OF,740750,,,
+2023,Coleman,Dylan,Kansas City,RHP,731750,,,
+2023,Hernandez,Carlos,Kansas City,RHP,730250,,,
+2023,Lynch,Daniel*,Kansas City,LHP,730250,,,
+2023,Isbel,Kyle,Kansas City,OF,727500,,,
+2023,Melendez,MJ,Kansas City,C,726500,,,
+2023,Cuas,Jose,Kansas City,RHP,726000,,,
+2023,Pasquantino,Vinnie,Kansas City,1B,725500,,,
+2023,Massey,Michael,Kansas City,2B,722850,,,
+2023,Waters,Drew*,Kansas City,OF,722400,,,
+2023,Eaton,Nathan,Kansas City,OF,722200,,,
+2023,Zerpa,Angel*,Kansas City,LHP,721400,,,
+2023,Hernandez,Diego*,Kansas City,OF,720000,,,
+2023,Rendon,Anthony,L.A. Angels,3B,38571429,7 (2020-26),245000000.0,35000000.0
+2023,Trout,Mike,L.A. Angels,OF,37116667,12 (2019-30),426500000.0,35541666.6667
+2023,Ohtani,Shohei,L.A. Angels,DH,30000000,,,
+2023,Anderson,Tyler,L.A. Angels,LHP,13000000,3 (2023-25),39000000.0,13000000.0
+2023,Renfroe,Hunter,L.A. Angels,OF,11900000,,,
+2023,Drury,Brandon,L.A. Angels,3B,8500000,2 (2023-24),17000000.0,8500000.0
+2023,Urshela,Gio,L.A. Angels,3B,8400000,,,
+2023,Moore,Matthew,L.A. Angels,LHP,7550000,,,
+2023,Loup,Aaron,L.A. Angels,LHP,7500000,2 (2022-23),17000000.0,8500000.0
+2023,Stassi,Max*,L.A. Angels,C,7000000,3 (2022-24),17500000.0,5833333.3333
+2023,Tepera,Ryan,L.A. Angels,RHP,7000000,2 (2022-23),14000000.0,7000000.0
+2023,Estevez,Carlos,L.A. Angels,RHP,6750000,2 (2023-24),13500000.0,6750000.0
+2023,Fletcher,David,L.A. Angels,3B,6000000,5 (2021-25),26000000.0,5200000.0
+2023,Sandoval,Patrick,L.A. Angels,LHP,2750000,,,
+2023,Ward,Taylor,L.A. Angels,OF,2750000,,,
+2023,Walsh,Jared*,L.A. Angels,1B,2650000,,,
+2023,Rengifo,Luis,L.A. Angels,2B,2300000,,,
+2023,Lamb,Jake,L.A. Angels,OF,1250000,,,
+2023,Phillips,Brett,L.A. Angels,OF,1200000,,,
+2023,Barria,Jaime,L.A. Angels,RHP,1050000,,,
+2023,Canning,Griffin*,L.A. Angels,RHP,850000,,,
+2023,Herget,Jimmy,L.A. Angels,RHP,750000,,,
+2023,Quijada,Jose,L.A. Angels,LHP,750000,,,
+2023,Suarez,Jose,L.A. Angels,LHP,750000,,,
+2023,Davidson,Tucker,L.A. Angels,LHP,740000,,,
+2023,Detmers,Reid,L.A. Angels,LHP,740000,,,
+2023,Rodriguez,Christopher*,L.A. Angels,RHP,740000,,,
+2023,Thaiss,Matt,L.A. Angels,3B,740000,,,
+2023,Wantz,Andrew,L.A. Angels,RHP,740000,,,
+2023,Daniel,Davis*,L.A. Angels,RHP,730000,,,
+2023,Marte,Jose*,L.A. Angels,RHP,730000,,,
+2023,O'Hoppe,Logan,L.A. Angels,C,730000,,,
+2023,Freeman,Freddie,L.A. Dodgers,1B,25290674,6 (2022-27),162000000.0,27000000.0
+2023,Heyward,Jason,L.A. Dodgers,OF,22000000,8 (2016-23),184000000.0,23000000.0
+2023,Betts,Mookie,L.A. Dodgers,OF,21158692,12 (2021-32),365000000.0,30416666.6667
+2023,Kershaw,Clayton,L.A. Dodgers,LHP,20000000,,,
+2023,Taylor,Chris,L.A. Dodgers,OF,15000000,4 (2022-25),60000000.0,15000000.0
+2023,Urias,Julio,L.A. Dodgers,LHP,14250000,,,
+2023,Muncy,Max,L.A. Dodgers,3B,13500000,,,
+2023,Syndergaard,Noah,L.A. Dodgers,RHP,13000000,,,
+2023,Martinez,JD,L.A. Dodgers,DH,10000000,,,
+2023,Buehler,Walker*,L.A. Dodgers,RHP,8025000,,,
+2023,Treinen,Blake*,L.A. Dodgers,RHP,8000000,,,
+2023,Hudson,Daniel*,L.A. Dodgers,RHP,6500000,,,
+2023,Peralta,David,L.A. Dodgers,OF,6500000,,,
+2023,Smith,Will,L.A. Dodgers,C,5250000,,,
+2023,Rojas,Miguel,L.A. Dodgers,SS,4250000,2 (2022-23),10000000.0,5000000.0
+2023,Barnes,Austin,L.A. Dodgers,C,3500000,,,
+2023,Gonsolin,Anthony*,L.A. Dodgers,RHP,3250000,,,
+2023,May,Dustin,L.A. Dodgers,RHP,1675000,,,
+2023,Almonte,Yency,L.A. Dodgers,RHP,1500000,,,
+2023,Miller,Shelby,L.A. Dodgers,RHP,1500000,,,
+2023,Thompson,Trayce,L.A. Dodgers,OF,1450000,,,
+2023,Phillips,Evan,L.A. Dodgers,RHP,1300000,,,
+2023,Graterol,Brusdar,L.A. Dodgers,RHP,1225000,,,
+2023,Nelson,Jimmy*,L.A. Dodgers,RHP,1200000,,,
+2023,Ferguson,Caleb,L.A. Dodgers,LHP,1100000,,,
+2023,Reyes,Alex*,L.A. Dodgers,RHP,1100000,,,
+2023,Feyereisen,J.P.*,L.A. Dodgers,RHP,750000,,,
+2023,Lux,Gavin*,L.A. Dodgers,SS,750000,,,
+2023,Vesia,Alex,L.A. Dodgers,LHP,750000,,,
+2023,Bickford,Phil,L.A. Dodgers,RHP,740000,,,
+2023,Grove,Michael,L.A. Dodgers,RHP,722500,,,
+2023,Jackson,Andre,L.A. Dodgers,RHP,722500,,,
+2023,Outman,James,L.A. Dodgers,OF,722500,,,
+2023,Pepiot,Ryan*,L.A. Dodgers,RHP,722500,,,
+2023,Vargas,Miguel,L.A. Dodgers,3B,722500,,,
+2023,Soler,Jorge,Miami,DH,15000000,3 (2022-24),36000000.0,12000000.0
+2023,Garcia,Avisail,Miami,OF,12000000,4 (2022-25),53000000.0,13250000.0
+2023,Barnes,Matt,Miami,RHP,7500000,,,
+2023,Segura,Jean,Miami,2B,6500000,2 (2023-24),17000000.0,8500000.0
+2023,Alcantara,Sandy,Miami,RHP,6300000,5 (2022-26),56000000.0,11200000.0
+2023,Arraez,Luis,Miami,1B,6100000,,,
+2023,Cueto,Johnny,Miami,RHP,6000000,,,
+2023,Wendle,Joey,Miami,2B,6000000,,,
+2023,Cooper,Garrett,Miami,1B,4200000,,,
+2023,Floro,Dylan,Miami,RHP,3900000,,,
+2023,Stallings,Jacob,Miami,C,3350000,,,
+2023,Scott,Tanner,Miami,LHP,2825000,,,
+2023,Luzardo,Jesus,Miami,LHP,2450000,,,
+2023,Berti,Jonathon,Miami,SS,2100000,,,
+2023,Gurriel,Yuri,Miami,1B,1250000,,,
+2023,Chargois,J.T.,Miami,RHP,850000,,,
+2023,Rogers,Trevor,Miami,LHP,752000,,,
+2023,Chisholm,Jazz,Miami,OF,749500,,,
+2023,Okert,Steven*,Miami,LHP,739000,,,
+2023,Bender,Anthony*,Miami,RHP,738500,,,
+2023,Sanchez,Jesus,Miami,OF,738000,,,
+2023,De La Cruz,Bryan,Miami,OF,736000,,,
+2023,Puk,A.J.,Miami,LHP,736000,,,
+2023,Garrett,Braxton,Miami,LHP,732000,,,
+2023,Cabrera,Edward,Miami,RHP,731000,,,
+2023,Fortes,Nick,Miami,C,730000,,,
+2023,Nance,Tommy*,Miami,RHP,729500,,,
+2023,Brazoban,Huascar,Miami,RHP,724000,,,
+2023,Nardi,Andrew,Miami,LHP,723000,,,
+2023,Meyer,Max*,Miami,RHP,721500,,,
+2023,Enright,Nic*,Miami,RHP,720000,,,
+2023,Yelich,Christian,Milwaukee,OF,24250727,9 (2020-28),215000000.0,23888888.8889
+2023,Woodruff,Brandon,Milwaukee,RHP,10800000,,,
+2023,Burnes,Corbin,Milwaukee,RHP,10010000,,,
+2023,Adames,Willy,Milwaukee,SS,8700000,,,
+2023,Winker,Jesse,Milwaukee,OF,8250000,,,
+2023,Lauer,Eric,Milwaukee,LHP,5075000,,,
+2023,Tellez,Rowdy,Milwaukee,1B,4950000,,,
+2023,Urias,Luis,Milwaukee,2B,4700000,,,
+2023,Peralta,Freddy,Milwaukee,RHP,3734960,5 (2020-24),15500000.0,3100000.0
+2023,Houser,Adrian*,Milwaukee,RHP,3600000,,,
+2023,Miley,Wade,Milwaukee,LHP,3500000,,,
+2023,Anderson,Brian,Milwaukee,3B,3500000,,,
+2023,Williams,Devin,Milwaukee,RHP,3350000,,,
+2023,Caratini,Victor,Milwaukee,C,2800000,,,
+2023,Voit,Luke,Milwaukee,1B,2000000,,,
+2023,Bush,Matt,Milwaukee,RHP,1850000,,,
+2023,Brosseau,Michael,Milwaukee,SS,1400000,,,
+2023,Ashby,Aaron*,Milwaukee,LHP,1200000,,,
+2023,Milner,Hoby,Milwaukee,LHP,1025000,,,
+2023,Wilson,Justin*,Milwaukee,LHP,850000,,,
+2023,Contreras,William,Milwaukee,C,739000,,,
+2023,Taylor,Tyrone*,Milwaukee,OF,735400,,,
+2023,Wilson,Bryse,Milwaukee,RHP,732600,,,
+2023,Alexander,Jason*,Milwaukee,RHP,732500,,,
+2023,Miller,Owen,Milwaukee,1B,731100,,,
+2023,Payamps,Joel,Milwaukee,RHP,730500,,,
+2023,Strzelecki,Peter,Milwaukee,RHP,726400,,,
+2023,Guerra,Javier,Milwaukee,RHP,724500,,,
+2023,Mitchell,Garrett,Milwaukee,OF,724300,,,
+2023,Turang,Brice,Milwaukee,SS,720000,,,
+2023,Varland,Gus,Milwaukee,RHP,720000,,,
+2023,Correa,Carlos,Minnesota,SS,33333333,6 (2023-32),200000000.0,33333333.0
+2023,Buxton,Byron,Minnesota,OF,15142857,7 (2022-28),100000000.0,14285714.2857
+2023,Gray,Sonny,Minnesota,RHP,13100000,,,
+2023,Gallo,Joey,Minnesota,OF,11000000,,,
+2023,Vazquez,Christian,Minnesota,C,10000000,3 (2023-25),30000000.0,10000000.0
+2023,Kepler,Max,Minnesota,OF,8500000,5 (2019-23),35000000.0,7000000.0
+2023,Mahle,Tyler,Minnesota,RHP,7500000,,,
+2023,Polanco,Jorge*,Minnesota,2B,7500000,5 (2019-23),25750000.0,5150000.0
+2023,Farmer,Kyle,Minnesota,3B,5585000,,,
+2023,Lopez,Pablo,Minnesota,RHP,5450000,,,
+2023,Taylor,Michael,Minnesota,OF,4500000,2 (2022-23),9000000.0,4500000.0
+2023,Lopez,Jorge,Minnesota,RHP,3525000,,,
+2023,Pagan,Emilio,Minnesota,RHP,3500000,,,
+2023,Maeda,Kenta,Minnesota,RHP,3000000,8 (2016-23),25000000.0,3125000.0
+2023,Paddack,Chris*,Minnesota,RHP,2500000,,,
+2023,Thielbar,Caleb,Minnesota,LHP,2400000,,,
+2023,Solano,Donovan,Minnesota,1B,2000000,,,
+2023,Castro,Willi,Minnesota,OF,1800000,,,
+2023,Alcala,Jorge,Minnesota,RHP,790000,,,
+2023,Jeffers,Ryan,Minnesota,C,741650,,,
+2023,Kirilloff,Alex*,Minnesota,1B,735650,,,
+2023,Gordon,Nick,Minnesota,2B,735400,,,
+2023,Larnach,Trevor,Minnesota,OF,733650,,,
+2023,Jax,Griffin,Minnesota,RHP,733150,,,
+2023,Celestino,Gilberto*,Minnesota,OF,731450,,,
+2023,Ryan,Joe,Minnesota,RHP,730250,,,
+2023,Miranda,Jose,Minnesota,3B,727850,,,
+2023,Lewis,Royce*,Minnesota,SS,727100,,,
+2023,Moran,Jovani,Minnesota,LHP,726200,,,
+2023,Winder,Josh*,Minnesota,RHP,725650,,,
+2023,Sands,Cole,Minnesota,RHP,723650,,,
+2023,Henriquez,Ronny*,Minnesota,RHP,720900,,,
+2023,Duran,Jhoan,Minnesota,RHP,720000,,,
+2023,Scherzer,Max,N.Y. Mets,RHP,43333333,3 (2022-24),130000000.0,43333333.3333
+2023,Verlander,Justin,N.Y. Mets,RHP,43333333,2 (2023-24),86666666.0,43333333.0
+2023,Lindor,Francisco,N.Y. Mets,SS,32477277,10 (2022-31),341000000.0,34100000.0
+2023,Marte,Starling,N.Y. Mets,OF,20750000,4 (2022-25),78000000.0,19500000.0
+2023,Nimmo,Brandon,N.Y. Mets,RHP,18500000,8 (2023-30),162000000.0,20250000.0
+2023,Diaz,Edwin*,N.Y. Mets,RHP,18444242,5 (2023-27),102000000.0,20400000.0
+2023,Senga,Kodai,N.Y. Mets,RHP,15666667,5 (2023-27),75000000.0,15000000.0
+2023,Alonso,Pete,N.Y. Mets,1B,14500000,,,
+2023,Carrasco,Carlos,N.Y. Mets,RHP,14000000,,,
+2023,Quintana,Jose*,N.Y. Mets,LHP,13000000,2 (2023-24),26000000.0,13000000.0
+2023,Canha,Mark,N.Y. Mets,OF,11500000,2 (2022-23),26500000.0,13250000.0
+2023,Robertson,David,N.Y. Mets,RHP,10000000,,,
+2023,Escobar,Eduardo,N.Y. Mets,3B,9500000,2 (2022-23),20000000.0,10000000.0
+2023,Narvaez,Omar,N.Y. Mets,C,8000000,2 (2023-24),15000000.0,7500000.0
+2023,Ottavino,Adam,N.Y. Mets,RHP,6647002,2 (2023-24),14500000.0,7250000.0
+2023,McNeil,Jeff,N.Y. Mets,OF,6250000,,,
+2023,Pham,Tommy,N.Y. Mets,OF,6000000,,,
+2023,Raley,Brooks,N.Y. Mets,LHP,4500000,2 (2022-23),10000000.0,5000000.0
+2023,Hunter,Tommy,N.Y. Mets,RHP,1750000,,,
+2023,Guillorme,Luis,N.Y. Mets,SS,1600000,,,
+2023,Hernandez,Elieser*,N.Y. Mets,RHP,1600000,,,
+2023,Nido,Tomas,N.Y. Mets,C,1600000,,,
+2023,Vogelbach,Daniel,N.Y. Mets,1B,1500000,,,
+2023,Locastro,Tim,N.Y. Mets,C,1400000,,,
+2023,Smith,Drew,N.Y. Mets,RHP,1300000,,,
+2023,Santana,Dennis,N.Y. Mets,RHP,1000000,,,
+2023,Coonrod,Samuel*,N.Y. Mets,RHP,775000,,,
+2023,Curtiss,John,N.Y. Mets,RHP,775000,,,
+2023,Peterson,David,N.Y. Mets,LHP,750000,,,
+2023,Ridings,Stephen*,N.Y. Mets,RHP,732500,,,
+2023,Nogosek,Steve,N.Y. Mets,RHP,730000,,,
+2023,Montes de Oca,Bryce*,N.Y. Mets,RHP,722500,,,
+2023,Judge,Aaron,N.Y. Yankees,OF,40000000,9 (2023-31),360000000.0,40000000.0
+2023,Cole,Gerrit,N.Y. Yankees,RHP,36000000,9 (2020-28),324000000.0,36000000.0
+2023,Stanton,Giancarlo,N.Y. Yankees,DH,32000000,13 (2015-27),325000000.0,25000000.0
+2023,Rodon,Carlos*,N.Y. Yankees,LHP,22833333,6 (2023-28),162000000.0,27000000.0
+2023,Donaldson,Josh,N.Y. Yankees,3B,21000000,4 (2020-23),92000000.0,23000000.0
+2023,Rizzo,Anthony,N.Y. Yankees,1B,17000000,2 (2023-24),40000000.0,20000000.0
+2023,LeMahieu,DJ,N.Y. Yankees,2B,15000000,6 (2021-26),90000000.0,15000000.0
+2023,Severino,Luis*,N.Y. Yankees,RHP,15000000,,,
+2023,Hicks,Aaron,N.Y. Yankees,OF,10785714,7 (2019-25),70000000.0,10000000.0
+2023,Torres,Gleyber,N.Y. Yankees,2B,9950000,,,
+2023,Montas,Frankie*,N.Y. Yankees,RHP,7500000,,,
+2023,Kiner-Falefa,Isiah,N.Y. Yankees,SS,6000000,,,
+2023,Kahnle,Tommy*,N.Y. Yankees,RHP,5750000,2 (2023-24),11500000.0,5750000.0
+2023,Bader,Harrison*,N.Y. Yankees,OF,5200000,2 (2022-23),10400000.0,5200000.0
+2023,Trivino,Lou*,N.Y. Yankees,RHP,4100000,,,
+2023,Peralta,Wandy,N.Y. Yankees,LHP,3350000,,,
+2023,Holmes,Clay,N.Y. Yankees,RHP,3300000,,,
+2023,Cortes,Nestor,N.Y. Yankees,LHP,3200000,,,
+2023,German,Domingo,N.Y. Yankees,RHP,2600000,,,
+2023,Trevino,Jose,N.Y. Yankees,C,2360000,,,
+2023,Loaisiga,Jonathan,N.Y. Yankees,RHP,2262500,,,
+2023,Higashioka,Kyle,N.Y. Yankees,C,1462500,,,
+2023,King,Michael,N.Y. Yankees,RHP,1300000,,,
+2023,Cordero,Franchy,N.Y. Yankees,1B,1000000,,,
+2023,Effross,Scott*,N.Y. Yankees,RHP,742750,,,
+2023,Cabrera,Oswaldo,N.Y. Yankees,OF,742100,,,
+2023,Schmidt,Clarke,N.Y. Yankees,RHP,740475,,,
+2023,Marinaccio,Ron,N.Y. Yankees,RHP,739900,,,
+2023,Abreu,Albert,N.Y. Yankees,RHP,738700,,,
+2023,Rortvedt,Ben*,N.Y. Yankees,C,730000,,,
+2023,Florial,Estevan,N.Y. Yankees,OF,728500,,,
+2023,Gil,Luis*,N.Y. Yankees,RHP,723400,,,
+2023,Brito,Jhony,N.Y. Yankees,RHP,720000,,,
+2023,Cordero,Jimmy,N.Y. Yankees,RHP,720000,,,
+2023,Volpe,Anthony,N.Y. Yankees,SS,720000,,,
+2023,May,Trevor,Oakland,RHP,7000000,,,
+2023,Diaz,Aledmys,Oakland,SS,6500000,2 (2023-24),14500000.0,7250000.0
+2023,Peterson,Jace,Oakland,3B,4500000,2 (2023-24),9500000.0,4750000.0
+2023,Pina,Manny*,Oakland,C,4500000,2 (2022-23),8000000.0,4000000.0
+2023,Kemp,Anthony,Oakland,2B,3725000,,,
+2023,Laureano,Ramon,Oakland,OF,3550000,,,
+2023,Fujinami,Shintaro,Oakland,RHP,3250000,,,
+2023,Aguilar,Jesus,Oakland,1B,3000000,,,
+2023,Rucinski,Drew*,Oakland,RHP,3000000,,,
+2023,Blackburn,Paul*,Oakland,RHP,1900000,,,
+2023,Familia,Jeurys,Oakland,RHP,1500000,,,
+2023,Perez,Carlos,Oakland,C,740000,,,
+2023,Brown,Seth,Oakland,OF,730000,,,
+2023,Kaprielian,James,Oakland,RHP,730000,,,
+2023,Acevedo,Domingo,Oakland,RHP,725000,,,
+2023,Jackson,Zach,Oakland,RHP,725000,,,
+2023,Jimenez,Dany,Oakland,RHP,725000,,,
+2023,Moll,Sam,Oakland,LHP,725000,,,
+2023,Rooker,Brent,Oakland,OF,725000,,,
+2023,Snead,Kirby*,Oakland,LHP,725000,,,
+2023,Allen,Nick,Oakland,SS,720000,,,
+2023,Capel,Conner,Oakland,OF,720000,,,
+2023,Langeliers,Shea,Oakland,C,720000,,,
+2023,Martinez,Adrian,Oakland,RHP,720000,,,
+2023,Muller,Kyle,Oakland,LHP,720000,,,
+2023,Noda,Ryan,Oakland,1B,720000,,,
+2023,Oller,Adam,Oakland,RHP,720000,,,
+2023,Ruiz,Esteury,Oakland,OF,720000,,,
+2023,Sears,J.P.,Oakland,LHP,720000,,,
+2023,Tarnok,Freddy*,Oakland,RHP,720000,,,
+2023,Waldichuk,Ken,Oakland,LHP,720000,,,
+2023,Harper,Bryce*,Philadelphia,OF,27538462,13 (2019-31),330000000.0,25384615.3846
+2023,Turner,Trea,Philadelphia,SS,27272727,11 (2023-33),300000000.0,27272727.0
+2023,Wheeler,Zack,Philadelphia,RHP,24500000,5 (2020-24),118000000.0,23600000.0
+2023,Realmuto,JT,Philadelphia,C,23875000,5 (2021-25),115500000.0,23100000.0
+2023,Castellanos,Nick,Philadelphia,OF,20000000,5 (2022-26),100000000.0,20000000.0
+2023,Schwarber,Kyle,Philadelphia,DH,20000000,4 (2022-25),79000000.0,19750000.0
+2023,Walker,Taijuan,Philadelphia,RHP,18000000,4 (2023-26),72000000.0,18000000.0
+2023,Nola,Aaron,Philadelphia,RHP,16250000,,,
+2023,Hoskins,Rhys*,Philadelphia,1B,12000000,,,
+2023,Kimbrel,Craig,Philadelphia,RHP,10000000,,,
+2023,Strahm,Matt,Philadelphia,LHP,7500000,2 (2023-24),15000000.0,7500000.0
+2023,Soto,Gregory,Philadelphia,LHP,3925000,,,
+2023,Alvarado,Jose,Philadelphia,LHP,3450000,,,
+2023,Suarez,Ranger*,Philadelphia,LHP,2950000,,,
+2023,Dominguez,Seranthony,Philadelphia,RHP,2500000,,,
+2023,Harrison,Josh,Philadelphia,2B,2000000,,,
+2023,Cave,Jake,Philadelphia,OF,950000,,,
+2023,Sosa,Edmundo,Philadelphia,SS,950000,,,
+2023,Bellatti,Andrew,Philadelphia,RHP,859000,,,
+2023,Bohm,Alec,Philadelphia,3B,748000,,,
+2023,Nelson,Nick*,Philadelphia,RHP,745000,,,
+2023,Stubbs,Garrett,Philadelphia,C,741000,,,
+2023,Brogdon,Connor,Philadelphia,RHP,738750,,,
+2023,Marsh,Brandon,Philadelphia,OF,734500,,,
+2023,Stott,Bryson,Philadelphia,SS,734500,,,
+2023,Falter,Bailey,Philadelphia,LHP,733000,,,
+2023,Marte,Yunior,Philadelphia,RHP,725500,,,
+2023,Sanchez,Cristopher*,Philadelphia,LHP,725000,,,
+2023,Hall,Darick,Philadelphia,1B,724500,,,
+2023,Marchan,Rafael*,Philadelphia,C,723500,,,
+2023,Vasquez,Andrew,Philadelphia,LHP,723500,,,
+2023,Guthrie,Dalton,Philadelphia,OF,722500,,,
+2023,Song,Noah*,Philadelphia,RHP,720000,,,
+2023,Hayes,Ke'Bryan,Pittsburgh,3B,10000000,8 (2022-29),70000000.0,8750000.0
+2023,Hill,Rich,Pittsburgh,LHP,8000000,,,
+2023,Reynolds,Bryan,Pittsburgh,OF,6750000,,,
+2023,Santana,Carlos,Pittsburgh,1B,6725000,,,
+2023,Hedges,Austin,Pittsburgh,C,5000000,,,
+2023,McCutchen,Andrew,Pittsburgh,OF,5000000,,,
+2023,Choi,Ji-Man,Pittsburgh,1B,4650000,,,
+2023,Velasquez,Vincent,Pittsburgh,RHP,3150000,,,
+2023,Garcia,Jarlin*,Pittsburgh,LHP,2500000,,,
+2023,Keller,Mitch,Pittsburgh,RHP,2437500,,,
+2023,Brubaker,Jonathan*,Pittsburgh,RHP,2275000,,,
+2023,Stephenson,Robert*,Pittsburgh,RHP,1750000,,,
+2023,Underwood Jr.,Duane,Pittsburgh,RHP,1025000,,,
+2023,De Jong,Chase,Pittsburgh,RHP,820000,,,
+2023,Zastryzny,Rob,Pittsburgh,LHP,750000,,,
+2023,Bednar,David,Pittsburgh,RHP,745000,,,
+2023,Crowe,Wil,Pittsburgh,RHP,745000,,,
+2023,Joe,Connor,Pittsburgh,OF,735000,,,
+2023,Oviedo,Johan,Pittsburgh,RHP,735000,,,
+2023,Bae,Ji-hwan,Pittsburgh,2B,725000,,,
+2023,Castro,Rodolfo,Pittsburgh,2B,725000,,,
+2023,Contreras,Roansy,Pittsburgh,RHP,725000,,,
+2023,Holderman,Colin,Pittsburgh,RHP,725000,,,
+2023,Kranick,Max*,Pittsburgh,RHP,725000,,,
+2023,Moreta,Dauri,Pittsburgh,RHP,725000,,,
+2023,Smith,Canaan,Pittsburgh,OF,725000,,,
+2023,Suwinski,Jack,Pittsburgh,OF,725000,,,
+2023,Delay,Jason,Pittsburgh,C,720000,,,
+2023,Cruz,Oneil,Pittsburgh,SS,720000,,,
+2023,Hernandez,Jose,Pittsburgh,LHP,720000,,,
+2023,Bogaerts,Xander,San Diego,SS,25454545,11 (2023-33),280000000.0,25454545.0
+2023,Darvish,Yu,San Diego,RHP,25000000,6 (2023-28),108000000.0,18000000.0
+2023,Soto,Juan,San Diego,OF,23000000,,,
+2023,Machado,Manny,San Diego,3B,21090909,11 (2023-33),350000000.0,31818182.0
+2023,Musgrove,Joe*,San Diego,RHP,20000000,5 (2023-27),100000000.0,20000000.0
+2023,Snell,Blake,San Diego,LHP,16600000,5 (2019-23),50000000.0,10000000.0
+2023,Hader,Josh,San Diego,LHP,14100000,,,
+2023,Martinez,Nick,San Diego,RHP,10000000,4 (2022-25),20000000.0,5000000.0
+2023,Pomeranz,Drew*,San Diego,LHP,10000000,4 (2020-23),34000000.0,8500000.0
+2023,Suarez,Robert*,San Diego,RHP,10000000,5 (2023-27),46000000.0,9200000.0
+2023,Lugo,Seth,San Diego,RHP,7500000,2 (2023-24),15000000.0,7500000.0
+2023,Wacha,Michael,San Diego,RHP,7500000,4 (2023-26),26000000.0,6500000.0
+2023,Tatis,Fernando**,San Diego,OF,7000000,14 (2021-34),340000000.0,24285714.2857
+2023,Kim,Ha-Seong,San Diego,2B,7000000,4 (2021-24),28000000.0,7000000.0
+2023,Carpenter,Matt,San Diego,DH,6500000,2 (2023-24),12000000.0,6000000.0
+2023,Cronenworth,Jake,San Diego,1B,4225000,7 (2024-30),80000000.0,11428571.0
+2023,Garcia,Luis (Amado),San Diego,LHP,3750000,2 (2022-23),7000000.0,3500000.0
+2023,Grisham,Trent,San Diego,OF,3175000,,,
+2023,Nola,Austin,San Diego,C,2350000,,,
+2023,Hill,Tim,San Diego,LHP,1850000,,,
+2023,Dahl,David,San Diego,OF,1250000,,,
+2023,Cruz,Nelson,San Diego,DH,1000000,,,
+2023,Engel,Adam*,San Diego,OF,1000000,,,
+2023,Morejon,Adrian*,San Diego,LHP,800000,,,
+2023,Odor,Rougned,San Diego,2B,800000,,,
+2023,Crismatt,Nabil,San Diego,RHP,750000,,,
+2023,Tapia,Domingo,San Diego,RHP,735000,,,
+2023,Castillo,Jose*,San Diego,LHP,730000,,,
+2023,Weathers,Ryan,San Diego,LHP,727600,,,
+2023,Wilson,Steven,San Diego,RHP,726400,,,
+2023,Honeywell Jr,Brent,San Diego,RHP,725000,,,
+2023,Azocar,Jose,San Diego,OF,723700,,,
+2023,Campusano,Luis,San Diego,C,722700,,,
+2023,Rosario,Eguy*,San Diego,SS,720400,,,
+2023,Pederson,Joc,San Francisco,OF,19650000,,,
+2023,Conforto,Michael,San Francisco,OF,18000000,2 (2023-24),36000000.0,18000000.0
+2023,Crawford,Brandon,San Francisco,SS,16000000,2 (2022-23),32000000.0,16000000.0
+2023,Manaea,Sean,San Francisco,LHP,12500000,2 (2023-24),25000000.0,12500000.0
+2023,Stripling,Ross,San Francisco,RHP,12500000,2 (2023-24),25000000.0,12500000.0
+2023,Wood,Alex,San Francisco,LHP,12500000,2 (2022-23),25000000.0,12500000.0
+2023,DeSclafani,Anthony,San Francisco,RHP,12000000,3 (2022-24),36000000.0,12000000.0
+2023,Cobb,Alex,San Francisco,RHP,9000000,2 (2022-23),20000000.0,10000000.0
+2023,Rogers,Taylor,San Francisco,LHP,9000000,3 (2023-35),33000000.0,11000000.0
+2023,Haniger,Mitch*,San Francisco,OF,8000000,3 (2023-25),43500000.0,14500000.0
+2023,Flores,Wilmer,San Francisco,2B,6500000,,,
+2023,Yastrzemski,Mike,San Francisco,OF,6100000,,,
+2023,Webb,Logan,San Francisco,RHP,4600000,,,
+2023,Davis,J.D.,San Francisco,3B,4210000,,,
+2023,Slater,Austin*,San Francisco,OF,3200000,,,
+2023,Jackson,Luke*,San Francisco,RHP,3000000,2 (2023-24),11500000.0,5750000.0
+2023,Junis,Jakob,San Francisco,RHP,2800000,,,
+2023,Perez,Roberto,San Francisco,C,2500000,,,
+2023,Brebbia,John,San Francisco,RHP,2300000,,,
+2023,Estrada,Thairo,San Francisco,2B,2250000,,,
+2023,Rogers,Tyler,San Francisco,RHP,1675000,,,
+2023,Wade,LaMonte,San Francisco,1B,1375000,,,
+2023,Beaty,Matt,San Francisco,OF,1250000,,,
+2023,Alexander,Scott,San Francisco,LHP,1150000,,,
+2023,Bart,Joey,San Francisco,C,735000,,,
+2023,Doval,Camilo,San Francisco,RHP,735000,,,
+2023,Gonzalez,Luis*,San Francisco,OF,735000,,,
+2023,Szapucki,Thomas*,San Francisco,LHP,723750,,,
+2023,Villar,David,San Francisco,3B,723750,,,
+2023,Sabol,Blake,San Francisco,C,720000,,,
+2023,Wisely,Brett,San Francisco,2B,720000,,,
+2023,Ray,Robbie,Seattle,LHP,21000000,5 (2022-26),115000000.0,23000000.0
+2023,Hernandez,Teoscar,Seattle,OF,14000000,,,
+2023,La Stella,Tommy,Seattle,2B,11500000,3 (2021-23),18750000.0,6250000.0
+2023,Castillo,Luis,Seattle,RHP,11400000,5 (2023-28),108000000.0,21600000.0
+2023,Crawford,J.P.,Seattle,SS,11000000,,,
+2023,Suarez,Eugenio,Seattle,3B,11000000,7 (2018-24),66000000.0,9428571.4286
+2023,Wong,Kolten,Seattle,2B,10000000,,,
+2023,Flexen,Christopher,Seattle,RHP,8000000,,,
+2023,Pollock,A.J.,Seattle,OF,7000000,,,
+2023,Gonzales,Marco,Seattle,LHP,6700000,4 (2021-24),30000000.0,7500000.0
+2023,Rodriguez,Julio,Seattle,OF,6185714,12 (2023-34),209300000.0,17441667.0
+2023,France,Ty,Seattle,DH,4100000,,,
+2023,Sewald,Paul,Seattle,RHP,4100000,,,
+2023,Castillo,Diego,Seattle,RHP,2950000,,,
+2023,Moore,Dylan*,Seattle,2B,2083333,,,
+2023,Munoz,Andres,Seattle,RHP,1687500,4 (2022-25),7500000.0,1875000.0
+2023,Murphy,Tom,Seattle,C,1625000,,,
+2023,Gott,Trevor,Seattle,RHP,1200000,,,
+2023,Gilbert,Logan,Seattle,RHP,767300,,,
+2023,Kirby,George,Seattle,RHP,758300,,,
+2023,Raleigh,Cal,Seattle,C,758300,,,
+2023,Kelenic,Jarred,Seattle,OF,729400,,,
+2023,Murfee,Penn,Seattle,RHP,727000,,,
+2023,Trammell,Taylor*,Seattle,OF,726700,,,
+2023,Haggerty,Sam,Seattle,OF,726600,,,
+2023,Brash,Matthew,Seattle,RHP,725800,,,
+2023,Festa,Matt,Seattle,RHP,725200,,,
+2023,Hummel,Cooper,Seattle,OF,723800,,,
+2023,Arenado,Nolan,St. Louis,3B,32822071,8 (2019-26),260000000.0,32500000.0
+2023,Goldschmidt,Paul,St. Louis,1B,25333333,5 (2020-24),130000000.0,26000000.0
+2023,Mikolas,Miles,St. Louis,RHP,21666667,3 (2023-25),55750000.0,18583333.0
+2023,Wainwright,Adam*,St. Louis,RHP,14521720,,,
+2023,Matz,Steven,St. Louis,LHP,10500000,4 (2022-25),44000000.0,11000000.0
+2023,Contreras,Willson,St. Louis,C,10000000,5 (2023-27),87500000.0,17500000.0
+2023,Montgomery,Jordan,St. Louis,LHP,10000000,,,
+2023,DeJong,Paul*,St. Louis,SS,9166667,6 (2018-23),26000000.0,4333333.3333
+2023,Flaherty,Jack,St. Louis,RHP,5400000,,,
+2023,O'Neill,Tyler,St. Louis,OF,4950000,,,
+2023,Gallegos,Giovanny,St. Louis,RHP,4750000,,,
+2023,Edman,Tommy,St. Louis,SS,4200000,,,
+2023,VerHagen,Drew,St. Louis,RHP,3000000,2 (2022-23),5500000.0,2750000.0
+2023,Stratton,Chris,St. Louis,RHP,2800000,,,
+2023,Helsley,Ryan,St. Louis,RHP,2150000,,,
+2023,Hicks,Jordan,St. Louis,RHP,1837500,,,
+2023,Knizner,Andrew,St. Louis,C,1100000,,,
+2023,Motter,Taylor,St. Louis,3B,775000,,,
+2023,Carlson,Dylan,St. Louis,OF,742400,,,
+2023,Woodford,Jake,St. Louis,RHP,739800,,,
+2023,Nootbaar,Lars,St. Louis,OF,732400,,,
+2023,Naughton,Packy,St. Louis,LHP,728750,,,
+2023,Donovan,Brendan,St. Louis,3B,728600,,,
+2023,Pallante,Andre,St. Louis,RHP,728600,,,
+2023,Gorman,Nolan,St. Louis,2B,726950,,,
+2023,Thompson,Zack,St. Louis,LHP,725000,,,
+2023,Burleson,Alec,St. Louis,OF,721450,,,
+2023,Rodriguez,Wilking*,St. Louis,RHP,720400,,,
+2023,Walker,Jordan,St. Louis,3B,720000,,,
+2023,Eflin,Zach,Tampa Bay,RHP,11000000,3 (2023-25),40000000.0,13333333.0
+2023,Margot,Manuel,Tampa Bay,OF,7000000,,,
+2023,Diaz,Yandy,Tampa Bay,3B,6000000,,,
+2023,Glasnow,Tyler*,Tampa Bay,RHP,5350000,,,
+2023,Lowe,Brandon,Tampa Bay,2B,5250000,6 (2019-24),24000000.0,4000000.0
+2023,Arozarena,Randy,Tampa Bay,OF,4150000,,,
+2023,Springs,Jeffrey,Tampa Bay,LHP,4000000,,,
+2023,Fairbanks,Peter,Tampa Bay,RHP,3666666,,,
+2023,Franco,Wander,Tampa Bay,SS,2454545,11 (2022-32),182000000.0,16545454.5455
+2023,Ramirez,Harold,Tampa Bay,OF,2200000,,,
+2023,Mejia,Francisco,Tampa Bay,C,2155000,,,
+2023,Kittredge,Andrew*,Tampa Bay,RHP,2075000,,,
+2023,Adam,Jason,Tampa Bay,RHP,1775000,,,
+2023,Beeks,Jalen,Tampa Bay,LHP,1375000,,,
+2023,Bethancourt,Christian,Tampa Bay,1B,1350000,,,
+2023,Armstrong,Shawn*,Tampa Bay,RHP,1200000,,,
+2023,Poche,Colin,Tampa Bay,LHP,1175000,,,
+2023,Thompson,Ryan,Tampa Bay,RHP,1000000,,,
+2023,Rasmussen,Drew,Tampa Bay,RHP,739700,,,
+2023,McClanahan,Shane,Tampa Bay,LHP,737000,,,
+2023,Paredes,Isaac,Tampa Bay,2B,735000,,,
+2023,Siri,Jose,Tampa Bay,OF,731600,,,
+2023,Walls,Taylor,Tampa Bay,SS,727600,,,
+2023,Fleming,Josh,Tampa Bay,LHP,727000,,,
+2023,Cleavinger,Garrett,Tampa Bay,LHP,725100,,,
+2023,Baz,Shane*,Tampa Bay,RHP,723600,,,
+2023,Lowe,Josh,Tampa Bay,OF,723200,,,
+2023,Raley,Luke,Tampa Bay,OF,722300,,,
+2023,Faucher,Calvin,Tampa Bay,RHP,721500,,,
+2023,Kelly,Kevin,Tampa Bay,RHP,720000,,,
+2023,Seager,Corey,Texas,SS,35500000,10 (2022-31),325000000.0,32500000.0
+2023,deGrom,Jacob,Texas,RHP,30000000,5 (2023-27),185000000.0,37000000.0
+2023,Semien,Marcus,Texas,2B,26000000,7(2022-28),175000000.0,25000000.0
+2023,Perez,Martin,Texas,LHP,19650000,,,
+2023,Eovaldi,Nathan,Texas,RHP,17000000,2 (2023-24),34000000.0,17000000.0
+2023,Gray,Jon,Texas,RHP,15000000,4 (2022-25),56000000.0,14000000.0
+2023,Odorizzi,Jake*,Texas,RHP,12500000,,,
+2023,Heaney,Andrew,Texas,LHP,12000000,2 (2023-24),25000000.0,12500000.0
+2023,Leclerc,Jose,Texas,RHP,6000000,,,
+2023,Lowe,Nate,Texas,1B,4050000,,,
+2023,Miller,Brad,Texas,1B,4000000,2 (2022-23),10000000.0,5000000.0
+2023,Garver,Mitch,Texas,C,3900000,,,
+2023,Kennedy,Ian,Texas,RHP,2250000,,,
+2023,Grossman,Robbie,Texas,OF,2000000,,,
+2023,Smith,Will,Texas,LHP,1500000,,,
+2023,Hearn,Taylor,Texas,LHP,1462500,,,
+2023,Martin,Brett*,Texas,LHP,1275000,,,
+2023,Jankowski,Travis,Texas,OF,1250000,,,
+2023,Hernandez,Jonathan,Texas,RHP,995000,,,
+2023,Garcia,Adolis,Texas,OF,747760,,,
+2023,Heim,Jonah,Texas,C,745660,,,
+2023,Burke,Brock,Texas,LHP,742840,,,
+2023,Dunning,Dane,Texas,RHP,742840,,,
+2023,Otto,Glenn*,Texas,RHP,736340,,,
+2023,Howard,Spencer*,Texas,RHP,733455,,,
+2023,Sborz,Josh*,Texas,RHP,733450,,,
+2023,Taveras,Leody*,Texas,OF,733445,,,
+2023,Smith,Josh,Texas,SS,727095,,,
+2023,Thompson,Bubba,Texas,OF,724305,,,
+2023,Duran,Ezequiel,Texas,2B,724170,,,
+2023,Ragans,Cole,Texas,LHP,724145,,,
+2023,Jung,Josh,Texas,3B,721485,,,
+2023,Springer,George,Toronto,OF,24166667,6 (2021-26),150000000.0,25000000.0
+2023,Gausman,Kevin,Toronto,RHP,21000000,5 (2022-26),110000000.0,22000000.0
+2023,Ryu,Hyun-Jin*,Toronto,LHP,20000000,4 (2020-23),80000000.0,20000000.0
+2023,Bassitt,Chris,Toronto,RHP,19000000,3 (2023-25),63000000.0,
+2023,Berrios,Jose,Toronto,RHP,16000000,7 (2022-28),131000000.0,18714285.7143
+2023,Guerrero,Vladimir,Toronto,1B,14500000,,,
+2023,Chapman,Matt,Toronto,3B,12500000,2 (2022-23),25000000.0,12500000.0
+2023,Kikuchi,Yusei,Toronto,LHP,10000000,3 (2022-24),36000000.0,12000000.0
+2023,Belt,Brandon,Toronto,DH,9300000,,,
+2023,Kiermaier,Kevin,Toronto,OF,9000000,,,
+2023,Merrifield,Whit,Toronto,2B,6750000,,,
+2023,Garcia,Yimi,Toronto,RHP,5500000,2 (2022-23),11000000.0,5500000.0
+2023,Romano,Jordan,Toronto,RHP,4537500,,,
+2023,Bichette,Bo,Toronto,SS,3933333,,,
+2023,Jansen,Danny,Toronto,C,3500000,,,
+2023,Cimber,Adam,Toronto,RHP,3150000,,,
+2023,Varsho,Daulton,Toronto,OF,3050000,,,
+2023,Bass,Anthony,Toronto,RHP,3000000,,,
+2023,Biggio,Cavan,Toronto,2B,2800000,,,
+2023,Green,Chad*,Toronto,RHP,2250000,2 (2023-24),8500000.0,4250000.0
+2023,Espinal,Santiago,Toronto,2B,2100000,,,
+2023,Mayza,Tim,Toronto,LHP,2100000,,,
+2023,Richards,Trevor,Toronto,RHP,1500000,,,
+2023,Swanson,Erik,Toronto,RHP,1250000,,,
+2023,Kirk,Alejandro,Toronto,C,767300,,,
+2023,Manoah,Alek,Toronto,RHP,745650,,,
+2023,White,Mitchell*,Toronto,RHP,743000,,,
+2023,Pop,Zachary,Toronto,RHP,742200,,,
+2023,Lukes,Nathan,Toronto,OF,720000,,,
+2023,Strasburg,Stephen*,Washington,RHP,32500286,7 (2020-26),245000000.0,35000000.0
+2023,Corbin,Patrick,Washington,LHP,24416667,6 (2019-24),140000000.0,23333333.3333
+2023,Williams,Trevor,Washington,RHP,6000000,2 (2023-24),13000000.0,6500000.0
+2023,Candelario,Jeimer,Washington,3B,5000000,,,
+2023,Finnegan,Kyle,Washington,RHP,2325000,,,
+2023,Robles,Victor,Washington,OF,2325000,,,
+2023,Dickerson,Corey,Washington,OF,2250000,,,
+2023,Edwards,Carl,Washington,RHP,2250000,,,
+2023,Thomas,Lane,Washington,OF,2200000,,,
+2023,Kuhl,Chad,Washington,RHP,2000000,,,
+2023,Smith,Dominic,Washington,1B,2000000,,,
+2023,Rainey,Tanner*,Washington,RHP,1500000,,,
+2023,Ruiz,Keibert,Washington,C,1375000,,,
+2023,Chavis,Michael,Washington,1B,1000000,,,
+2023,Ramirez,Erasmo,Washington,RHP,1000000,,,
+2023,Vargas,Ildemaro,Washington,SS,975000,,,
+2023,Arano,Victor*,Washington,RHP,925000,,,
+2023,Harvey,Hunter,Washington,RHP,870000,,,
+2023,Banda,Anthony,Washington,LHP,850000,,,
+2023,Garcia,Luis,Washington,SS,738600,,,
+2023,Kieboom,Carter*,Washington,3B,733400,,,
+2023,Gray,Josiah,Washington,RHP,730000,,,
+2023,Adams,Riley,Washington,C,728800,,,
+2023,Thompson,Mason,Washington,RHP,724400,,,
+2023,Abrams Jr.,CJ,Washington,SS,724200,,,
+2023,Gore,MacKenzie,Washington,LHP,723300,,,
+2023,Meneses,Joey,Washington,1B,723300,,,
+2023,Call,Alex,Washington,OF,721800,,,
+2023,Cavalli,Cade*,Washington,RHP,720200,,,
+2023,Pineda,Israel*,Washington,C,720200,,,
+2023,Harris,Hobie,Washington,RHP,720000,,,
+2023,Ward,Thaddeus,Washington,RHP,720000,,,
