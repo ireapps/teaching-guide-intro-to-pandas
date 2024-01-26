@@ -31,7 +31,7 @@ Most people who come to this class will have _zero_ experience with programming,
 Having the students open [the included syntax reference notebook](Python%20syntax%20cheat%20sheet.ipynb) can be useful for reinforcing Python basics. 
 
 ## Class setup
-We'll have the latest version of Python 3 installed. We're using the standard library's `venv` module to manage the virtual environment and project dependencies (`jupyter` and `pandas`), which will already have been installed and tested prior to your session. Please refer to the Python setup sheet for the conference and let us know if you have any questions.
+We'll have the latest version of Python 3 installed. We're using the standard library's `venv` module to manage the virtual environment and project dependencies (`jupyterlab` and `pandas`), which will already have been installed and tested prior to your session. Please refer to the Python setup sheet for the conference and let us know if you have any questions.
 
 ## Class outline
 
@@ -42,7 +42,7 @@ Begin the class by (slowly!) walking everyone through the process of activating 
 3. Activate the virtual environment:
     - Macs: `source env/bin/activate`
     - PCs: `.\env\Scripts\activate`
-4. `jupyter notebook`
+4. `jupyter lab`
 
 It will take everyone a few minutes to get going. You'll also probably get some questions about what, exactly, you're doing at this step. Try to avoid a lengthy digression into virtual environments -- it's beyond the scope of this hourlong session, so maybe offer to talk to them after class, or send 'em our way: [training@ire.org](mailto:training@ire.org).
 
@@ -79,4 +79,4 @@ You'll need Python 3 installed on your computer. [Here's our install guide](http
     - Macs: `source env/bin/activate`
     - PCs: `.\env\Scripts\activate`
 5. `pip install -r requirements.txt`
-6. `jupyter notebook`
+6. `jupyter lab`
