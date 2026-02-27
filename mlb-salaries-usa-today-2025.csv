@@ -1,0 +1,955 @@
+year,name_last,name_first,team,position,salary,years,total_value,avg_annual
+2025,Soto,Juan,Mets,OF,61875000,15 (2025-39),765000000,51000000
+2025,Wheeler,Zack,Phillies,RHP,42000000,3 (2025-27),126000000,42000000
+2025,Judge,Aaron,Yankees,OF,40000000,9 (2023-31),360000000,40000000
+2025,deGrom,Jacob,Rangers,RHP,40000000,5 (2023-27),185000000,37000000
+2025,Rendon,Anthony,Angels,3B,38571429,7 (2020-26),245000000,35000000
+2025,Correa,Carlos,Twins,SS,37333333,6 (2023-28),200000000,33333333
+2025,Trout,Mike,Angels,OF,37116667,12 (2019-30),426500000,35541666.6667
+2025,Cole,Gerrit,Yankees,RHP,36000000,9 (2020-28),324000000,36000000
+2025,Altuve,Jose,Astros,OF,33000000,5 (2025-29),125000000,25000000
+2025,Seager,Corey,Rangers,SS,32500000,10 (2022-31),325000000,32500000
+2025,Lindor,Francisco,Mets,SS,32477639,10 (2022-31),341000000,34100000
+2025,Stanton,Giancarlo,Yankees,DH,32000000,13 (2015-27),325000000,25000000
+2025,Burnes,Corbin,Diamondbacks,RHP,30791435,6 (2025-30),210000000,35000000
+2025,Glasnow,Tyler,Dodgers,RHP,30000000,5 (2024-28),136562500,27312500
+2025,Alonso,Pete,Mets,1B,30000000,2 (2025-26),54000000,27000000
+2025,Arenado,Nolan,Cardinals,3B,29533909,8 (2019-26),260000000,32500000
+2025,Guerrero Jr.,Vladimir,Blue Jays,1B,28500000,,,
+2025,Ohtani,Shohei,Dodgers,DH/RHP,28213523,10 (2024-33),700000000,70000000
+2025,Swanson,Dansby,Cubs,SS,28000000,7 (2023-29),177000000,25285714
+2025,Rodon,Carlos,Yankees,LHP,27833333,6 (2023-28),162000000,27000000
+2025,Harper,Bryce,Phillies,1B,27538462,13 (2019-31),330000000,25384615.3846
+2025,Bellinger,Cody,Yankees,OF,27500000,3 (2024-26),80000000,26666667
+2025,Turner,Trea,Phillies,SS,27272727,11 (2023-33),300000000,27272727
+2025,Bryant,Kris,Rockies,DH,27000000,7 (2022-28),182000000,26000000
+2025,Snell,Blake,Dodgers,LHP,26825953,5 (2025-29),182000000,36400000
+2025,Betts,Mookie,Dodgers,SS,26158692,12 (2021-32),365000000,30416666.6667
+2025,Semien,Marcus,Rangers,2B,26000000,7(2022-28),175000000,25000000
+2025,Bregman,Alex,Red Sox,3B,25930874,3 (2025-27),120000000,40000000
+2025,Devers,Rafael,Red Sox,DH,25813052,10 (2024-33),313500000,31350000
+2025,Bogaerts,Xander,Padres,2B,25454545,11 (2023-33),280000000,25454545
+2025,Chapman,Matt,Giants,3B,25166667,6 (2025-30),151000000,25166667
+2025,Baez,Javier,Tigers,SS,25000000,6 (2022-27),140000000,23333333.3333
+2025,Ray,Robbie,Giants,LHP,25000000,5 (2022-26),115000000,23000000
+2025,Gray,Sonny,Cardinals,RHP,25000000,3 (2024-26),75000000,25000000
+2025,Flaherty,Jack,Tigers,RHP,25000000,2 (2025-26),35000000,17500000
+2025,Nola,Aaron,Phillies,RHP,24571428,7 (2024-30),172000000,24571429
+2025,Springer,George,Blue Jays,OF,24166667,6 (2021-26),150000000,25000000
+2025,Castillo,Luis,Mariners,RHP,24150000,5 (2023-28),108000000,21600000
+2025,Yelich,Christian,Brewers,OF,24092771,9 (2020-28),215000000,23888888.8889
+2025,Realmuto,JT,Phillies,C,23875000,5 (2021-25),115500000,23100000
+2025,Freeman,Freddie,Dodgers,1B,23353561,6 (2022-27),162000000,27000000
+2025,Gausman,Kevin,Blue Jays,RHP,23000000,5 (2022-26),110000000,22000000
+2025,Story,Trevor,Red Sox,SS,22500000,6 (2022-27),140000000,23333333.3333
+2025,Montgomery,Jordan,Diamondbacks,LHP,22500000,,,
+2025,Riley,Austin,Braves,3B,22000000,10 (2023-32),212000000,21200000
+2025,Olson,Matt,Braves,1B,22000000,8 (2022-29),168000000,21000000
+2025,Bassitt,Chris,Blue Jays,RHP,22000000,3 (2023-25),63000000,21000000
+2025,Sale,Chris,Braves,LHP,22000000,2 (2024-25),38000000,18000000
+2025,Perez,Salvador,Royals,C,21849212,4 (2022-25),82000000,20500000
+2025,Lopez,Pablo,Twins,RHP,21750000,4 (2024-27),73500000,18375000
+2025,Eovaldi,Nathan,Rangers,RHP,21534832,3 (2025-27),75000000,25000000
+2025,Martinez,Nick,Reds,RHP,21050000,,,
+2025,Darvish,Yu,Padres,RHP,21000000,6 (2023-28),108000000,18000000
+2025,Kikuchi,Yusei,Angels,LHP,21000000,3 (2025-27),63000000,21000000
+2025,Happ,Ian,Cubs,OF,21000000,3 (2024-26),61000000,20333333
+2025,Marte,Starling,Mets,OF,20750000,4 (2022-25),78000000,19500000
+2025,Tatis Jr.,Fernando,Padres,OF,20714286,14 (2021-34),340000000,24285714.2857
+2025,Nimmo,Brandon,Mets,OF,20500000,8 (2023-30),162000000,20250000
+2025,Manaea,Sean,Mets,LHP,20211904,3 (2025-27),75000000,25000000
+2025,Rodriguez,Julio,Mariners,OF,20185714,12 (2023-34),209300000,17441667
+2025,Musgrove,Joe,Padres,RHP,20000000,5 (2023-27),100000000,20000000
+2025,Castellanos,Nick,Phillies,OF,20000000,5 (2022-26),100000000,20000000
+2025,Rodriguez,Eduardo,Diamondbacks,LHP,20000000,4 (2024-27),80000000,20000000
+2025,Schwarber,Kyle,Phillies,DH,20000000,4 (2022-25),79000000,19750000
+2025,Severino,Luis,Athletics,RHP,20000000,3 (2025-27),67000000,22333333
+2025,Walker,Christian,Astros,1B,20000000,3 (2025-27),60000000,20000000
+2025,Marte,Ketel,Diamondbacks,2B,19600000,5 (2023-27),76000000,15200000
+2025,Ramirez,Jose,Guardians,3B,19000000,7 (2022-28),141000000,20142857.1429
+2025,Berrios,Jose,Blue Jays,RHP,19000000,7 (2022-28),131000000,18714285.7143
+2025,Hader,Josh,Astros,LHP,19000000,5 (2024-28),95000000,19000000
+2025,Suzuki,Seiya,Cubs,OF,19000000,5 (2022-26),85000000,17000000
+2025,Giolito,Lucas,Red Sox,RHP,19000000,2 (2024-25),38500000,19250000
+2025,Yoshida,Masataka,Red Sox,OF,18600000,5 (2023-27),90000000,18000000
+2025,Stroman,Marcus,Yankees,RHP,18500000,2 (2024-25),37000000,18500000
+2025,Pederson,Joc,Rangers,OF,18500000,2 (2025-26),37000000,18500000
+2025,Diaz,Edwin,Mets,RHP,18331014,5 (2023-27),102000000,20400000
+2025,Buehler,Walker,Red Sox,RHP,18050000,,,
+2025,Contreras,Willson,Cardinals,C,18000000,5 (2023-27),87500000,17500000
+2025,Walker,Taijuan,Phillies,RHP,18000000,4 (2023-26),72000000,18000000
+2025,Taillon,Jameson,Cubs,RHP,18000000,4 (2023-26),68000000,17000000
+2025,Wacha,Michael,Royals,RHP,18000000,3 (2025-27),51000000,17000000
+2025,Eflin,Zach,Orioles,RHP,18000000,3 (2023-25),40000000,13333333
+2025,Hoskins,Rhys,Brewers,1B,18000000,2 (2024-25),34000000,17000000
+2025,Valdez,Framber,Astros,LHP,18000000,,,
+2025,McCullers Jr.,Lance,Astros,RHP,17700000,5 (2022-26),85000000,17000000
+2025,Mikolas,Miles,Cardinals,RHP,17666667,3 (2023-25),55750000,18583333
+2025,Bichette,Bo,Blue Jays,SS,17583333,3 (2023-25),33600000,11200000
+2025,Alcantara,Sandy,Marlins,RHP,17300000,5 (2022-26),56000000,11200000
+2025,Lee,Jung-Hoo,Giants,OF,17250000,6 (2024-29),113000000,18833333
+2025,Benintendi,Andrew,White Sox,OF,17100000,5 (2023-27),75000000,15000000
+2025,Machado,Manny,Padres,3B,17090909,11 (2023-33),350000000,31818182
+2025,Acuna Jr.,Ronald,Braves,OF,17000000,8 (2019-26),100000000,12500000
+2025,Montas,Frankie,Mets,RHP,17000000,2 (2025-26),34000000,17000000
+2025,Conforto,Michael,Dodgers,OF,17000000,,,
+2025,O'Neill,Tyler,Orioles,OF,16500000,3 (2025-27),49500000,16500000
+2025,Mahle,Tyler,Rangers,RHP,16500000,2 (2024-25),22000000,11000000
+2025,Tucker,Kyle,Cubs,OF,16500000,,,
+2025,Freeland,Kyle,Rockies,LHP,16000000,5 (2022-26),64500000,12900000
+2025,Iglesias,Raisel,Braves,RHP,16000000,4 (2022-25),58000000,14500000
+2025,Candelario,Jeimer,Reds,3B,16000000,3 (2024-26),45000000,15000000
+2025,Ozuna,Marcell,Braves,DH,16000000,,,
+2025,Alvarez,Yordan,Astros,DH,15833333,6 (2023-28),115000000,19166667
+2025,McNeil,Jeff,Mets,2B,15750000,4 (2023-26),50000000,12500000
+2025,Senga,Kodai,Mets,RHP,15666667,5 (2023-27),75000000,15000000
+2025,Scherzer,Max,Blue Jays,RHP,15500000,,,
+2025,Keller,Mitch,Pirates,RHP,15411500,5 (2024-28),77000000,15400000
+2025,Buxton,Byron,Twins,OF,15142857,7 (2022-28),100000000,14285714.2857
+2025,LeMahieu,DJ,Yankees,3B,15000000,6 (2021-26),90000000,15000000
+2025,Murphy,Sean,Braves,C,15000000,6 (2023-28),73000000,12166667
+2025,Robert Jr.,Luis,White Sox,OF,15000000,6 (2020-25),50000000,8333333.3333
+2025,Lugo,Seth,Royals,RHP,15000000,3 (2024-26),45000000,15000000
+2025,Verlander,Justin,Giants,RHP,15000000,,,
+2025,Morton,Charlie,Orioles,RHP,15000000,,,
+2025,Cobb,Alex,Tigers,RHP,15000000,,,
+2025,Suarez,Eugenio,Diamondbacks,3B,15000000,,,
+2025,Torres,Gleyber,Tigers,2B,15000000,,,
+2025,Fried,Max,Yankees,LHP,14500000,8 (2025-32),218000000,27250000
+2025,Muncy,Max,Dodgers,3B,14250000,2 (2024-25),24000000,12000000
+2025,Yamamoto,Yoshinobu,Dodgers,RHP,14166667,12 (2024-35),325000000,27083333
+2025,Pressly,Ryan,Cubs,RHP,14100000,,,
+2025,Gurriel Jr.,Lourdes,Diamondbacks,OF,14000000,3 (2024-26),42000000,14000000
+2025,Arraez,Luis,Padres,1B,14000000,,,
+2025,Imanaga,Shota,Cubs,LHP,13750000,4 (2024-27),53000000,13250000
+2025,Cease,Dylan,Padres,RHP,13750000,,,
+2025,Gallen,Zac,Diamondbacks,RHP,13500000,,,
+2025,Hernandez,Teoscar,Dodgers,OF,13454952,3 (2025-27),66000000,22000000
+2025,Adames,Willy,Giants,SS,13142857,7 (2025-31),182000000,26000000
+2025,Taylor,Chris,Dodgers,OF,13000000,4 (2022-25),60000000,15000000
+2025,Gray,Jon,Rangers,RHP,13000000,4 (2022-25),56000000,14000000
+2025,Soler,Jorge,Angels,DH,13000000,3 (2024-26),42000000,14000000
+2025,Anderson,Tyler,Angels,LHP,13000000,3 (2023-25),39000000,13000000
+2025,Holmes,Clay,Mets,RHP,13000000,3 (2025-27),38000000,12666667
+2025,Kim,Ha-Seong,Rays,SS,13000000,2 (2025-26),29000000,14500000
+2025,Yates,Kirby,Dodgers,RHP,13000000,,,
+2025,Sugano,Tomoyuki,Orioles,RHP,13000000,,,
+2025,Hicks,Jordan,Giants,RHP,12500000,4 (2024-27),44000000,11000000
+2025,Matz,Steven,Cardinals,LHP,12500000,4 (2022-25),44000000,11000000
+2025,Garver,Mitch,Mariners,C,12500000,2 (2024-25),24000000,12000000
+2025,Goldschmidt,Paul,Yankees,1B,12500000,,,
+2025,Smith,Will,Dodgers,C,12432934,10 (2024-33),140000000,14000000
+2025,Reynolds,Bryan,Pirates,OF,12250000,8 (2023-30),106750000,13343750
+2025,Scott,Tanner,Dodgers,LHP,12141009,4 (2025-28),72000000,18000000
+2025,Webb,Logan,Giants,RHP,12000000,5 (2024-28),90000000,18000000
+2025,McMahon,Ryan,Rockies,3B,12000000,6 (2022-27),70000000,11666667
+2025,Senzatela,Antonio,Rockies,RHP,12000000,5 (2022-26),50500000,10100000
+2025,Profar,Jurickson,Braves,OF,12000000,3 (2025-27),42000000,14000000
+2025,Rogers,Taylor,Reds,LHP,12000000,3 (2023-25),33000000,11000000
+2025,Santana,Carlos,Guardians,1B,12000000,,,
+2025,Hoerner,Nico,Cubs,2B,11500000,3 (2024-26),35000000,11666667
+2025,Montero,Rafael,Astros,RHP,11500000,3 (2023-25),34500000,11500000
+2025,Arozarena,Randy,Mariners,OF,11300000,,,
+2025,Cronenworth,Jake,Padres,2B,11285714,7 (2024-30),80000000,11428571
+2025,Gimenez,Andres,Blue Jays,2B,11000000,7 (2023-29),106500000,15214286
+2025,Crawford,J.P.,Mariners,SS,11000000,5 (2022-26),51000000,10200000
+2025,Stephenson,Robert,Angels,RHP,11000000,3 (2024-26),33000000,11000000
+2025,Minter,A.J.,Mets,LHP,11000000,2 (2025-26),22000000,11000000
+2025,Naylor,Josh,Diamondbacks,1B,10900000,,,
+2025,Chapman,Aroldis,Red Sox,LHP,10750000,,,
+2025,Springs,Jeffrey,Athletics,LHP,10500000,4 (2023-26),31000000,7750000
+2025,Green,Chad,Blue Jays,RHP,10500000,3 (2023-25),23250000,10500000
+2025,Garcia,Adolis,Rangers,OF,10500000,2 (2024-25),14000000,7000000
+2025,Lowe,Brandon,Rays,2B,10500000,,,
+2025,Santander,Anthony,Blue Jays,OF,10471465,5 (2025-29),92500000,18500000
+2025,Javier,Cristian,Astros,RHP,10400000,5 (2023-27),64000000,12800000
+2025,Lowe,Nathaniel,Nationals,1B,10300000,,,
+2025,Skubal,Tarik,Tigers,LHP,10150000,,,
+2025,Estevez,Carlos,Royals,RHP,10100000,2 (2025-26),22200000,11100000
+2025,Suarez,Robert,Padres,RHP,10000000,5 (2023-27),46000000,9200000
+2025,Vazquez,Christian,Twins,C,10000000,3 (2023-25),30000000,10000000
+2025,Boyd,Matt,Cubs,LHP,10000000,2 (2025-26),29000000,14500000
+2025,Bieber,Shane,Guardians,RHP,10000000,2 (2025-26),26000000,13000000
+2025,Maeda,Kenta,Tigers,RHP,10000000,2 (2024-25),24000000,12000000
+2025,Diaz,Yandy,Rays,1B,10000000,3 (2023-25),24000000,8000000
+2025,Marquez,German,Rockies,RHP,10000000,2 (2024-25),20000000,10000000
+2025,Jansen,Kenley,Angels,RHP,10000000,,,
+2025,Leclerc,Jose,Athletics,RHP,10000000,,,
+2025,Kepler-Rozycki,Max,Phillies,OF,10000000,,,
+2025,Yastrzemski,Mike,Giants,OF,9250000,,,
+2025,Alvarado,Jose,Phillies,LHP,9025000,3 (2023-25),22000000,7333333
+2025,Jimenez,Joe,Braves,RHP,9000000,3 (2024-26),26000000,8666667
+2025,Soroka,Michael,Nationals,RHP,9000000,,,
+2025,Kittredge,Andrew,Orioles,RHP,9000000,,,
+2025,Suarez,Ranger,Phillies,LHP,8800000,,,
+2025,Singer,Brady,Reds,RHP,8750000,,,
+2025,Mullins,Cedric,Orioles,OF,8725000,,,
+2025,Williams,Devin,Yankees,RHP,8600000,,,
+2025,Treinen,Blake,Dodgers,RHP,8500000,2 (2025-26),22000000,11000000
+2025,Romano,Jordan,Phillies,RHP,8500000,,,
+2025,Sanchez,Gary,Orioles,C,8500000,,,
+2025,Edman,Tommy,Dodgers,2B,8400000,5 (2025-29),74000000,14800000
+2025,Helsley,Ryan,Cardinals,RHP,8200000,,,
+2025,Varsho,Daulton,Blue Jays,OF,8200000,,,
+2025,Witt Jr.,Bobby,Royals,SS,8111111,11 (2024-34),288777777,26252525
+2025,Harris II,Mike,Braves,OF,8000000,8 (2023-30),72000000,9000000
+2025,Lopez,Reynaldo,Braves,RHP,8000000,3 (2025-27),30000000,10000000
+2025,Pagan,Emilio,Reds,RHP,8000000,2 (2024-25),16000000,8000000
+2025,Civale,Aaron,Brewers,RHP,8000000,,,
+2025,Peralta,Freddy,Brewers,RHP,8000000,,,
+2025,Kelly,Merrill,Diamondbacks,RHP,8000000,,,
+2025,Dominguez,Seranthony,Orioles,RHP,8000000,,,
+2025,Jansen,Danny,Rays,C,8000000,,,
+2025,O'Hearn,Ryan,Orioles,1B,8000000,,,
+2025,Ward,Taylor,Angels,OF,7825000,,,
+2025,Thomas,Lane,Guardians,OF,7825000,,,
+2025,Kahnle,Tommy,Tigers,RHP,7750000,,,
+2025,Bohm,Alec,Phillies,3B,7700000,,,
+2025,Hoffman,Jeff,Blue Jays,RHP,7666667,3 (2025-27),33000000,11000000
+2025,Gilbert,Logan,Mariners,RHP,7625000,,,
+2025,Cortes,Nestor,Brewers,LHP,7600000,,,
+2025,Renfroe,Hunter,Royals,OF,7570000,2 (2024-25),13000000,6500000
+2025,Kiner-Falefa,Isiah,Pirates,SS,7500000,2 (2024-25),15000000,7500000
+2025,Garcia,Yimi,Blue Jays,RHP,7500000,2 (2025-26),15000000,7500000
+2025,Fedde,Erick,Cardinals,RHP,7500000,2 (2024-25),15000000,7500000
+2025,Paddack,Chris,Twins,RHP,7500000,3 (2023-25),12525000,4175000
+2025,Winker,Jesse,Mets,OF,7500000,,,
+2025,Kershaw,Clayton,Dodgers,LHP,7500000,,,
+2025,Strahm,Matt,Phillies,LHP,7500000,,,
+2025,India,Jonathan,Royals,3B,7050000,2 (2024-25),8800000,4400000
+2025,Hayes,Ke'Bryan,Pirates,3B,7000000,8 (2022-29),70000000,8750000
+2025,Albies,Ozzie,Braves,2B,7000000,7 (2019-25),35000000,5000000
+2025,Rodriguez,Yariel,Blue Jays,RHP,7000000,5 (2024-28),32000000,6400000
+2025,Johnson,Pierce,Braves,RHP,7000000,2 (2024-25),14250000,7125000
+2025,Williams,Trevor,Nationals,RHP,7000000,2 (2025-26),14000000,7000000
+2025,Polanco,Jorge,Mariners,2B,7000000,,,
+2025,Mountcastle,Ryan,Orioles,1B,6787000,,,
+2025,Paredes,Isaac,Astros,3B,6625000,,,
+2025,Steele,Justin,Cubs,LHP,6550000,,,
+2025,Hernandez,Kike,Dodgers,INF,6500000,,,
+2025,Castro,Willi,Twins,3B,6400000,,,
+2025,Gomber,Austin,Rockies,LHP,6350000,,,
+2025,Greene,Hunter,Reds,RHP,6333333,6 (2023-28),53000000,8833333
+2025,Luzardo,Jesus,Phillies,LHP,6225000,,,
+2025,Phillips,Evan,Dodgers,RHP,6100000,,,
+2025,Straw,Myles,Blue Jays,OF,6000000,5 (2022-26),25000000,5000000
+2025,d'Arnaud,Travis,Angels,C,6000000,2 (2025-26),12000000,6000000
+2025,Caratini,Victor,Astros,C,6000000,2 (2024-25),12000000,6000000
+2025,Hendriks,Liam,Red Sox,RHP,6000000,2 (2024-25),10000000,5000000
+2025,Sewald,Paul,Guardians,RHP,6000000,,,
+2025,Turner,Justin,Cubs,DH,6000000,,,
+2025,Bell,Josh,Nationals,DH,6000000,,,
+2025,Contreras,William,Brewers,C,6000000,,,
+2025,Rengifo,Luis,Angels,2B,5950000,,,
+2025,Bednar,David,Pirates,RHP,5900000,,,
+2025,Chisholm Jr.,Jazz,Yankees,2B,5850000,,,
+2025,Vaughn,Andrew,White Sox,1B,5850000,,,
+2025,Higashioka,Kyle,Rangers,C,5750000,2 (2025-26),13500000,6750000
+2025,Littell,Zack,Rays,RHP,5720000,,,
+2025,Carroll,Corbin,Diamondbacks,OF,5625000,8 (2023-31),111000000,13875000
+2025,Matsui,Yuki,Padres,LHP,5500000,5 (2024-28),28000000,5600000
+2025,Whitlock,Garrett,Red Sox,RHP,5500000,4 (2023-26),18750000,4687500
+2025,Sandoval,Patrick,Red Sox,LHP,5500000,2 (2025-26),18250000,9125000
+2025,Martin,Chris,Rangers,RHP,5500000,,,
+2025,Lorenzen,Michael,Royals,RHP,5500000,,,
+2025,Rutschman,Adley,Orioles,C,5500000,,,
+2025,Gonsolin,Tony,Dodgers,RHP,5400000,,,
+2025,Ruiz,Keibert,Nationals,C,5375000,8 (2023-30),50000000,6250000
+2025,Finnegan,Kyle,Nationals,RHP,5357523,,,
+2025,Soto,Gregory,Orioles,LHP,5350000,,,
+2025,Rogers,Tyler,Giants,RHP,5250000,,,
+2025,Heaney,Andrew,Pirates,LHP,5250000,,,
+2025,Kopech,Michael,Dodgers,RHP,5200000,,,
+2025,Woodruff,Brandon,Brewers,RHP,5000000,2 (2024-25),22000000,11000000
+2025,Kelly,Carson,Cubs,C,5000000,2 (2025-26),11500000,5750000
+2025,Rojas,Miguel,Dodgers,SS,5000000,,,
+2025,Loaisiga,Jonathan,Yankees,RHP,5000000,,,
+2025,Grisham,Trent,Yankees,OF,5000000,,,
+2025,McCutchen,Andrew,Pirates,DH,5000000,,,
+2025,Moncada,Yoan,Angels,3B,5000000,,,
+2025,Dubon,Mauricio,Astros,2B,5000000,,,
+2025,Wade Jr.,LaMonte,Giants,1B,5000000,,,
+2025,Stephenson,Tyler,Reds,C,4925000,,,
+2025,Clase,Emmanuel,Guardians,RHP,4900000,5 (2022-26),20000000,4000000
+2025,Adam,Jason,Padres,RHP,4800000,,,
+2025,Taveras,Leody,Rangers,OF,4750000,,,
+2025,Bader,Harrison,Twins,OF,4750000,,,
+2025,Peterson,David,Mets,LHP,4625000,,,
+2025,Kirk,Alejandro,Blue Jays,C,4600000,,,
+2025,Heim,Jonah,Rangers,C,4575000,,,
+2025,Jeffers,Ryan,Twins,C,4550000,,,
+2025,Doval,Camilo,Giants,RHP,4525000,,,
+2025,Brasier,Ryan,Cubs,RHP,4500000,2 (2024-25),9000000,4500000
+2025,Stratton,Chris,Royals,RHP,4500000,2 (2024-25),8000000,4000000
+2025,Junis,Jakob,Guardians,RHP,4500000,,,
+2025,Stanek,Ryne,Mets,RHP,4500000,,,
+2025,Diaz,Alexis,Reds,RHP,4500000,,,
+2025,Sanchez,Jesus,Marlins,OF,4500000,,,
+2025,Garcia Jr.,Luis,Nationals,2B,4500000,,,
+2025,Kirby,George,Mariners,RHP,4300000,,,
+2025,Chourio,Jackson,Brewers,OF,4250000,8 (2024-31),82000000,10250000
+2025,Peralta,Wandy,Padres,LHP,4250000,4 (2024-27),16500000,4125000
+2025,Rea,Colin,Cubs,RHP,4250000,,,
+2025,Canning,Griffin,Mets,RHP,4250000,,,
+2025,Tovar,Ezequiel,Rockies,SS,4214286,7 (2024-30),63500000,9071428
+2025,Kwan,Steven,Guardians,OF,4175000,,,
+2025,Robles,Victor,Mariners,OF,4125000,2 (2025-26),9750000,
+2025,Duran,Jhoan,Twins,RHP,4125000,,,
+2025,Pena,Jeremy,Astros,SS,4100000,,,
+2025,Blackburn,Paul,Mets,RHP,4050000,,,
+2025,Pham,Tommy,Pirates,OF,4025000,,,
+2025,Strider,Spencer,Braves,RHP,4000000,6 (2023-28),75000000,12500000
+2025,Rooker,Brent,Athletics,OF,4000000,5 (2025-29),60000000,12000000
+2025,Murphy,Tom,Giants,C,4000000,2 (2024-25),8250000,4125000
+2025,King,Michael,Padres,RHP,4000000,,,
+2025,Ross,Joe,Phillies,RHP,4000000,,,
+2025,Laureano,Ramon,Orioles,OF,4000000,,,
+2025,Hays,Austin,Reds,OF,4000000,,,
+2025,Hedges,Austin,Guardians,C,4000000,,,
+2025,Houck,Tanner,Red Sox,RHP,3950000,,,
+2025,Moore,Dylan,Mariners,OF,3908333,,,
+2025,Keith,Colt,Tigers,1B,3833333,6 (2024-29),28642500,4773750
+2025,Fairbanks,Pete,Rays,RHP,3816667,3 (2023-25),12000000,4000000
+2025,Crochet,Garrett,Red Sox,LHP,3800000,,,
+2025,Duran,Jarren,Red Sox,OF,3750000,,,
+2025,Harvey,Hunter,Royals,RHP,3700000,,,
+2025,Schmidt,Clarke,Yankees,RHP,3600000,,,
+2025,McClanahan,Shane,Rays,LHP,3600000,,,
+2025,Mateo,Jorge,Orioles,SS,3550000,,,
+2025,Ober,Bailey,Twins,RHP,3550000,,,
+2025,Bummer,Aaron,Braves,LHP,3500000,2 (2025-26),13000000,7500000
+2025,Flores,Wilmer,Giants,SS,3500000,,,
+2025,Quantrill,Cal,Marlins,RHP,3500000,,,
+2025,Perez,Martin,White Sox,LHP,3500000,,,
+2025,Solano,Donovan,Mariners,INF,3500000,,,
+2025,Barnes,Austin,Dodgers,C,3500000,,,
+2025,Rojas,Josh,White Sox,3B,3500000,,,
+2025,Ashby,Aaron,Brewers,LHP,3450000,5 (2023-27),20500000,4100000
+2025,Abreu,Bryan,Astros,RHP,3450000,,,
+2025,Trevino,Jose,Reds,C,3425000,3 (2025-27),14925000,4975000
+2025,Bibee,Tanner,Guardians,RHP,3400000,5 (2025-29),48000000,9600000
+2025,McCormick,Chas,Astros,OF,3400000,,,
+2025,Lux,Gavin,Reds,2B,3325000,,,
+2025,Estrada,Thairo,Rockies,2B,3250000,,,
+2025,Stott,Bryson,Phillies,2B,3200000,,,
+2025,Urias,Ramon,Orioles,3B,3150000,,,
+2025,Fraley,Jake,Reds,OF,3125000,,,
+2025,Taylor,Tyrone,Mets,OF,3025000,,,
+2025,Vierling,Matt,Tigers,OF,3005000,,,
+2025,Kinley,Tyler,Rockies,RHP,3000000,3 (2023-25),6250000,2083333.3333
+2025,Swanson,Erik,Blue Jays,RHP,3000000,,,
+2025,Lopez,Jorge,Nationals,RHP,3000000,,,
+2025,Sims,Lucas,Nationals,RHP,3000000,,,
+2025,Dobnak,Randy,Twins,RHP,3000000,,,
+2025,Ryan,Joe,Twins,RHP,3000000,,,
+2025,Andujar,Miguel,Athletics,OF,3000000,,,
+2025,Marsh,Brandon,Phillies,OF,3000000,,,
+2025,Ferguson,Caleb,Pirates,LHP,3000000,,,
+2025,Bubic,Kris,Royals,LHP,3000000,,,
+2025,Coulombe,Danny,Twins,LHP,3000000,,,
+2025,Sosa,Edmundo,Phillies,INF,3000000,,,
+2025,Iglesias,Jose,Padres,2B,3000000,,,
+2025,Payamps,Joel,Brewers,RHP,2995000,,,
+2025,Thompson,Ryan,Diamondbacks,RHP,2965000,,,
+2025,Kremer,Dean,Orioles,RHP,2950000,,,
+2025,Nootbaar,Lars,Cardinals,OF,2950000,,,
+2025,Puk,A.J.,Diamondbacks,LHP,2950000,,,
+2025,Gore,MacKenzie,Nationals,LHP,2890000,,,
+2025,Donovan,Brendan,Cardinals,2B,2850000,,,
+2025,Graterol,Brusdar,Dodgers,RHP,2800000,,,
+2025,Law,Derek,Nationals,RHP,2750000,,,
+2025,Crawford,Kutter,Red Sox,RHP,2750000,,,
+2025,Thielbar,Caleb,Cubs,LHP,2750000,,,
+2025,Brown,Seth,Athletics,OF,2700000,,,
+2025,Munoz,Andres,Mariners,RHP,2687500,4 (2022-25),7500000,1875000
+2025,Raleigh,Cal,Mariners,C,2666667,6 (2025-30),105000000,17500000
+2025,Bello,Brayan,Red Sox,RHP,2666667,6 (2024-29),55000000,9166667
+2025,Melendez,MJ,Royals,OF,2650000,,,
+2025,Rogers,Jake,Tigers,C,2640000,,,
+2025,Rogers,Trevor,Orioles,LHP,2600000,,,
+2025,Perdomo,Geraldo,Diamondbacks,SS,2550000,,,
+2025,Pivetta,Nick,Padres,RHP,2500000,4 (2025-28),55000000,13750000
+2025,Newman,Kevin,Angels,SS,2500000,,,
+2025,Farmer,Kyle,Rockies,SS,2500000,,,
+2025,Hendricks,Kyle,Angels,RHP,2500000,,,
+2025,Weaver,Luke,Yankees,RHP,2500000,,,
+2025,Milner,Hoby,Rangers,LHP,2500000,,,
+2025,Hill,Tim,Yankees,LHP,2500000,,,
+2025,Ginkel,Kevin,Diamondbacks,RHP,2425000,,,
+2025,Siri,Jose,Mets,OF,2400000,,,
+2025,Espinal,Santiago,Reds,INF,2400000,,,
+2025,Jax,Griffin,Twins,RHP,2365000,,,
+2025,Bradish,Kyle,Orioles,RHP,2350000,,,
+2025,Mize,Casey,Tigers,RHP,2340000,,,
+2025,Stephan,Trevor,Guardians,RHP,2300000,4 (2023-26),10000000,2500000
+2025,Schreiber,John,Royals,RHP,2300000,,,
+2025,Meyers,Jake,Astros,OF,2300000,,,
+2025,Kelenic,Jarred,Braves,OF,2300000,,,
+2025,Feltner,Ryan,Rockies,RHP,2275000,,,
+2025,Romero,JoJo,Cardinals,LHP,2260000,,,
+2025,Rasmussen,Drew,Rays,RHP,2250000,2 (2025-26),8500000,4250000
+2025,Lively,Ben,Guardians,RHP,2250000,,,
+2025,Brebbia,John,Tigers,RHP,2250000,,,
+2025,Vesia,Alex,Dodgers,LHP,2250000,,,
+2025,Wilson,Justin,Red Sox,LHP,2250000,,,
+2025,Suter,Brent,Reds,LHP,2250000,,,
+2025,Falter,Bailey,Pirates,LHP,2222000,,,
+2025,Manoah,Alek,Blue Jays,RHP,2200000,,,
+2025,Perez,Cionel,Orioles,LHP,2200000,,,
+2025,Urshela,Gio,Athletics,3B,2150000,,,
+2025,May,Dustin,Dodgers,RHP,2135000,,,
+2025,Pallante,Andre,Cardinals,RHP,2100000,,,
+2025,Adell,Jo,Angels,OF,2100000,,,
+2025,Refsnyder,Rob,Red Sox,OF,2100000,,,
+2025,Larnarch,Trevor,Twins,OF,2100000,,,
+2025,Wells,Tyler,Orioles,RHP,2075000,,,
+2025,Leiter Jr.,Mark,Yankees,RHP,2050000,,,
+2025,Sanchez,Cristopher,Phillies,LHP,2000000,4 (2025-28),22500000,5625000
+2025,Arcia,Orlando,Braves,SS,2000000,3 (2023-25),7300000,2433333
+2025,Neris,Hector,Braves,RHP,2000000,,,
+2025,Maton,Phil,Cardinals,RHP,2000000,,,
+2025,Thornton,Trent,Mariners,RHP,2000000,,,
+2025,Grichuk,Randal,Diamondbacks,OF,2000000,,,
+2025,Morejon,Adrian,Padres,LHP,2000000,,,
+2025,Alexander,Scott,Rockies,LHP,2000000,,,
+2025,Yarbrough,Ryan,Yankees,LHP,2000000,,,
+2025,Berti,Jon,Cubs,INF,2000000,,,
+2025,Rosario,Amed,Nationals,INF,2000000,,,
+2025,Stallings,Jacob,Rockies,C,2000000,,,
+2025,Rodgers,Brendan,Astros,2B,2000000,,,
+2025,Biggio,Cavan,Royals,2B,2000000,,,
+2025,Megill,Tylor,Mets,RHP,1975000,,,
+2025,Lodolo,Nick,Reds,LHP,1975000,,,
+2025,Clement,Ernie,Blue Jays,3B,1975000,,,
+2025,McKenzie,Triston,Guardians,RHP,1950000,,,
+2025,Cabrera,Edward,Marlins,RHP,1950000,,,
+2025,Tauchman,Michael,White Sox,OF,1950000,,,
+2025,Taylor,Michael A.,White Sox,OF,1950000,,,
+2025,Megill,Trevor,Brewers,RHP,1940000,,,
+2025,Garcia,Luis,Astros,RHP,1875000,,,
+2025,Fortes,Nick,Marlins,C,1860000,,,
+2025,Detmers,Reid,Angels,LHP,1825000,,,
+2025,Brubaker,JT,Yankees,RHP,1820000,,,
+2025,Wright,Kyle,Royals,RHP,1800000,,,
+2025,McFarland,T.J.,Athletics,LHP,1800000,,,
+2025,Isbel,Kyle,Royals,OF,1750000,,,
+2025,Slater,Austin,White Sox,OF,1750000,,,
+2025,Bart,Joey,Pirates,C,1750000,,,
+2025,Martinez,Justin,Diamondbacks,RHP,1700000,5 (2025-29),18000000,3600000
+2025,Mantiply,Joe,Diamondbacks,LHP,1700000,,,
+2025,McKinstry,Zach,Tigers,3B,1650000,,,
+2025,Sandlin,Nick,Blue Jays,RHP,1630000,,,
+2025,Lewis,Royce,Twins,SS,1625000,,,
+2025,King,John,Cardinals,LHP,1605000,,,
+2025,Sheets,Gavin,Padres,DH,1600000,,,
+2025,Garrett,Braxton,Marlins,LHP,1530000,,,
+2025,Frazier,Adam,Pirates,2B,1525000,,,
+2025,Keller,Brad,Cubs,RHP,1500000,,,
+2025,Garcia,Luis,Dodgers,RHP,1500000,,,
+2025,Trivino,Lou,Giants,RHP,1500000,,,
+2025,Holderman,Colin,Pirates,RHP,1500000,,,
+2025,Jackson,Luke,Rangers,RHP,1500000,,,
+2025,Barlow,Scott,Reds,RHP,1500000,,,
+2025,Alcala,Jorge,Twins,RHP,1500000,,,
+2025,Clevinger,Mike,White Sox,RHP,1500000,,,
+2025,Carrasco,Carlos,Yankees,RHP,1500000,,,
+2025,Tellez,Rowdy,Mariners,DH,1500000,,,
+2025,Torrens,Luis,Mets,C,1500000,,,
+2025,Diaz,Elias,Padres,C,1500000,,,
+2025,Hampson,Garrett,Diamondbacks,2B,1500000,,,
+2025,Smith,Pavin,Diamondbacks,1B,1500000,,,
+2025,Akin,Keegan,Orioles,LHP,1475000,,,
+2025,Baz,Shane,Rays,RHP,1450000,,,
+2025,Bender,Anthony,Marlins,RHP,1420000,,,
+2025,Barnes,Jacob,Blue Jays,RHP,1400000,,,
+2025,De Los Santos,Enyel,Braves,RHP,1400000,,,
+2025,Santana,Dennis,Pirates,RHP,1400000,,,
+2025,Vest,Will,Tigers,RHP,1400000,,,
+2025,Canha,Mark,Royals,OF,1400000,,,
+2025,Poche,Colin,Nationals,LHP,1400000,,,
+2025,Ibanez,Andy,Tigers,INF,1400000,,,
+2025,Bauers,Jake,Brewers,1B,1400000,,,
+2025,Pearson,Nate,Cubs,RHP,1350000,,,
+2025,Gray,Josiah,Nationals,RHP,1350000,,,
+2025,Walls,Taylor,Rays,INF,1350000,,,
+2025,Haase,Eric,Brewers,C,1350000,,,
+2025,Madrigal,Nick,Mets,2B,1350000,,,
+2025,Hentges,Sam,Guardians,LHP,1337000,,,
+2025,Gibaut,Ian,Reds,RHP,1300000,,,
+2025,Margot,Manuel,Tigers,OF,1300000,,,
+2025,Ruiz,Jose,Phillies,RHP,1255000,,,
+2025,Rafaela,Ceddanne,Red Sox,OF,1250000,8 (2024-31),50000000,6250000
+2025,Graveman,Kendall,Diamondbacks,RHP,1250000,,,
+2025,Webb,Jacob,Rangers,RHP,1250000,,,
+2025,Moniak,Mickey,Rockies,OF,1250000,,,
+2025,Beeks,Jalen,Diamondbacks,LHP,1250000,,,
+2025,Anderson,Tim,Angels,2B,1250000,,,
+2025,Gurriel,Yuli,Padres,1B,1250000,,,
+2025,Merryweather,Julian,Cubs,RHP,1225000,,,
+2025,Okert,Steven,Astros,LHP,1200000,,,
+2025,Cleavinger,Garrett,Rays,LHP,1200000,,,
+2025,Hernandez,Carlos,Phillies,RHP,1160000,,,
+2025,Burke,Brock,Angels,LHP,1150000,,,
+2025,Borucki,Ryan,Pirates,LHP,1150000,,,
+2025,Mayza,Tim,Pirates,LHP,1150000,,,
+2025,Armstrong,Shawn,Rangers,RHP,1125000,,,
+2025,Rortvedt,Ben,Rays,C,1125000,,,
+2025,Sborz,Josh,Rangers,RHP,1100000,,,
+2025,Suarez,Jose,Braves,LHP,1100000,,,
+2025,Wynns,Austin,Reds,C,1100000,,,
+2025,Urias,Luis,Athletics,2B,1100000,,,
+2025,Ragans,Cole,Royals,LHP,1083333,3 (2025-27),13250000,6625000
+2025,Wilson,Bryse,White Sox,RHP,1050000,,,
+2025,Brieske,Beau,Tigers,RHP,1025000,,,
+2025,Lee,Dylan,Braves,LHP,1025000,,,
+2025,Moll,Sam,Reds,LHP,1007500,,,
+2025,Miller,Shelby,Diamondbacks,RHP,1000000,,,
+2025,Smith,Drew,Mets,RHP,1000000,,,
+2025,Bautista,Felix,Orioles,RHP,1000000,,,
+2025,Criswell,Cooper,Red Sox,RHP,1000000,,,
+2025,Santillan,Tony,Reds,RHP,1000000,,,
+2025,Hernandez,Jose,Tigers,RHP,1000000,,,
+2025,Tonkin,Michael,Twins,RHP,1000000,,,
+2025,Topa,Justin,Twins,RHP,1000000,,,
+2025,Heyward,Jason,Padres,OF,1000000,,,
+2025,Pillar,Kevin,Rangers,OF,1000000,,,
+2025,Jankowski,Travis,White Sox,OF,1000000,,,
+2025,Lovelady,Richard,Blue Jays,LHP,1000000,,,
+2025,Alexander,Tyler,Brewers,LHP,1000000,,,
+2025,Banda,Anthony,Dodgers,LHP,1000000,,,
+2025,Means,John,Guardians,LHP,1000000,,,
+2025,Hart,Kyle,Padres,LHP,1000000,,,
+2025,Newcomb,Sean,Red Sox,LHP,1000000,,,
+2025,Maldonado,Martin,Padres,C,1000000,,,
+2025,Thaiss,Matt,White Sox,C,1000000,,,
+2025,DeJong,Paul,Nationals,3B,1000000,,,
+2025,France,Ty,Twins,1B,1000000,,,
+2025,Lawrence,Justin,Pirates,RHP,975000,,,
+2025,Mears,Nick,Brewers,RHP,963000,,,
+2025,Morgan,Eli,Cubs,RHP,950000,,,
+2025,Garrett,Reed,Mets,RHP,950000,,,
+2025,Long,Sam,Royals,LHP,950000,,,
+2025,Hamilton,Ian,Yankees,RHP,941050,,,
+2025,Saucedo,Tayler,Mariners,LHP,937500,,,
+2025,Rodriguez,Elvin,Brewers,RHP,900000,,,
+2025,Maton,Nick,White Sox,OF,900000,,,
+2025,Gilbert,Tyler,White Sox,LHP,900000,,,
+2025,Reyes,Pablo,Yankees,INF,900000,,,
+2025,Bazardo,Eduard,Mariners,RHP,892700,,,
+2025,Volpe,Anthony,Yankees,SS,879000,,,
+2025,Skenes,Paul,Pirates,RHP,875000,,,
+2025,Stewart,Brock,Twins,RHP,870000,,,
+2025,De La Cruz,Bryan,Braves,OF,860000,,,
+2025,Oviedo,Johan,Pirates,RHP,850000,,,
+2025,Herget,Jimmy,Rockies,RHP,850000,,,
+2025,Martini,Nick,Rockies,OF,850000,,,
+2025,Adams,Riley,Nationals,C,850000,,,
+2025,Lopez,Nicky,Angels,2B,850000,,,
+2025,Speier,Gabe,Mariners,LHP,845000,,,
+2025,Cousins,Jake,Yankees,RHP,841050,,,
+2025,Tinoco,Jesus,Marlins,RHP,831000,,,
+2025,Hill,Derek,Marlins,OF,831000,,,
+2025,Cabrera,Oswaldo,Yankees,3B,825600,,,
+2025,Nelson,Ryne,Diamondbacks,RHP,825000,,,
+2025,Suarez,Albert,Orioles,RHP,825000,,,
+2025,Young,Danny,Mets,LHP,825000,,,
+2025,Chaparro,Andres,Nationals,1B,821800,,,
+2025,Gillispie,Connor,Marlins,RHP,820000,,,
+2025,Uceta,Edwin,Rays,RHP,815000,,,
+2025,Greene,Riley,Tigers,OF,812400,,,
+2025,Merrill,Jackson,Padres,OF,809500,,,
+2025,Brown,Hunter,Astros,RHP,807400,,,
+2025,Diaz,Yainer,Astros,C,805600,,,
+2025,Gil,Luis,Yankees,RHP,804125,,,
+2025,McCarthy,Jake,Diamondbacks,OF,803900,,,
+2025,Blanco,Ronel,Astros,RHP,802700,,,
+2025,Perkins,Blake,Brewers,OF,802500,,,
+2025,Wells,Austin,Yankees,C,801400,,,
+2025,Miller,Bryce,Mariners,RHP,800000,,,
+2025,Effross,Scott,Yankees,RHP,800000,,,
+2025,Pfaadt,Brandon,Diamondbacks,RHP,799400,,,
+2025,Holton,Tyler,Tigers,LHP,797700,,,
+2025,Carpenter,Kerry,Tigers,OF,796800,,,
+2025,Alvarez,Francisco,Mets,C,795000,,,
+2025,Arrighetti,Spencer,Astros,RHP,794200,,,
+2025,Assad,Javier,Cubs,RHP,793250,,,
+2025,Pasquantino,Vinnie,Royals,1B,793250,,,
+2025,Thomas,Alek,Diamondbacks,OF,793000,,,
+2025,Moreno,Gabriel,Diamondbacks,C,793000,,,
+2025,Naylor,Bo,Guardians,C,790300,,,
+2025,Massey,Michael,Royals,2B,790250,,,
+2025,Anderson,Ian,Angels,RHP,790000,,,
+2025,Soriano,Jose,Angels,RHP,790000,,,
+2025,Scott,Tayler,Astros,RHP,790000,,,
+2025,Grove,Michael,Dodgers,RHP,790000,,,
+2025,White,Eli,Braves,INF,790000,,,
+2025,O'Hoppe,Logan,Angels,C,790000,,,
+2025,Tromp,Chadwick,Braves,C,790000,,,
+2025,Wong,Connor,Red Sox,C,790000,,,
+2025,Burger,Jake,Rangers,1B,790000,,,
+2025,Vientos,Mark,Mets,3B,788750,,,
+2025,Raley,Luke,Mariners,1B,787400,,,
+2025,Olson,Reese,Tigers,RHP,787100,,,
+2025,Burr,Ryan,Blue Jays,RHP,786000,,,
+2025,Torkelson,Spencer,Tigers,1B,785700,,,
+2025,Banks,Tanner,Phillies,LHP,785500,,,
+2025,Smith,Cade,Guardians,RHP,785100,,,
+2025,Cruz,Oneil,Pirates,SS,785000,,,
+2025,Moreta,Dauri,Pirates,RHP,785000,,,
+2025,Cruz,Fernando,Yankees,RHP,785000,,,
+2025,Suwinski,Jack,Pirates,OF,785000,,,
+2025,Butto,Jose,Mets,RHP,784250,,,
+2025,Hoeing,Bryan,Padres,RHP,784000,,,
+2025,Brujan,Vidal,Cubs,OF,783500,,,
+2025,Woo,Bryan,Mariners,RHP,783300,,,
+2025,Miranda,Jose,Twins,DH,783100,,,
+2025,Nardi,Andrew,Marlins,LHP,783000,,,
+2025,Gorman,Nolan,Cardinals,2B,782900,,,
+2025,Rice,Ben,Yankees,DH,782800,,,
+2025,Ortiz,Luis,Guardians,RHP,782600,,,
+2025,Lynch,Daniel,Royals,LHP,782500,,,
+2025,Amaya,Miguel,Cubs,C,782500,,,
+2025,Henderson,Gunnar,Orioles,SS,782300,,,
+2025,Lange,Alex,Tigers,RHP,782200,,,
+2025,Fry,David,Guardians,C,781900,,,
+2025,Myers,Tobias,Brewers,RHP,781800,,,
+2025,Fermin,Freddy,Royals,C,781750,,,
+2025,Meadows,Parker,Tigers,OF,781600,,,
+2025,Francis,Bowden,Blue Jays,RHP,781500,,,
+2025,Abrams,CJ,Nationals,SS,780600,,,
+2025,Smith,Josh,Rangers,INF,780500,,,
+2025,Marchan,Rafael,Phillies,C,780500,,,
+2025,Jung,Josh,Rangers,3B,780500,,,
+2025,Busch,Michael,Cubs,1B,780500,,,
+2025,Williams,Gavin,Guardians,RHP,780300,,,
+2025,Heineman,Tyler,Blue Jays,C,780300,,,
+2025,Neto,Zach,Angels,SS,780000,,,
+2025,Allen,Nick,Braves,SS,780000,,,
+2025,Bachman,Sam,Angels,RHP,780000,,,
+2025,Joyce,Ben,Angels,RHP,780000,,,
+2025,Sheehan,Emmet,Dodgers,RHP,780000,,,
+2025,Stone,Gavin,Dodgers,RHP,780000,,,
+2025,Walker,Ryan,Giants,RHP,780000,,,
+2025,Ashcraft,Graham,Reds,RHP,780000,,,
+2025,Murfee,Penn,White Sox,RHP,780000,,,
+2025,Matos,Luis,Giants,OF,780000,,,
+2025,Ramos,Heliot,Giants,OF,780000,,,
+2025,Abreu,Wilyer,Red Sox,OF,780000,,,
+2025,Hamilton,David,Red Sox,OF,780000,,,
+2025,Friedl,TJ,Reds,OF,780000,,,
+2025,Miller,Erik,Giants,LHP,780000,,,
+2025,Schneider,Davis,Blue Jays,INF,780000,,,
+2025,Schmitt,Casey,Giants,INF,780000,,,
+2025,Steer,Spencer,Reds,DH,780000,,,
+2025,Bailey,Patrick,Giants,C,780000,,,
+2025,Huff,Sam,Giants,C,780000,,,
+2025,Fitzgerald,Tyler,Giants,2B,780000,,,
+2025,Schanuel,Nolan,Angels,1B,780000,,,
+2025,Wesneski,Hayden,Astros,RHP,779800,,,
+2025,Weathers,Ryan,Marlins,LHP,779100,,,
+2025,Zerpa,Angel,Royals,LHP,779000,,,
+2025,Gaddis,Hunter,Guardians,RHP,778900,,,
+2025,Burleson,Alec,Cardinals,OF,778650,,,
+2025,Lopez,Otto,Marlins,2B,778500,,,
+2025,Sands,Cole,Twins,RHP,778050,,,
+2025,Miller,Tyson,Cubs,RHP,778000,,,
+2025,Henriquez,Ronny,Marlins,RHP,778000,,,
+2025,Brazoban,Huascar,Mets,RHP,778000,,,
+2025,Brash,Matt,Mariners,RHP,777600,,,
+2025,Herrin,Tim,Guardians,LHP,777300,,,
+2025,Allen,Logan,Guardians,LHP,777200,,,
+2025,Turang,Brice,Brewers,2B,777100,,,
+2025,Caballero,Jose,Rays,SS,776800,,,
+2025,Hudson,Bryan,Brewers,LHP,776800,,,
+2025,Erceg,Lucas,Royals,RHP,776750,,,
+2025,Estrada,Jeremiah,Padres,RHP,776500,,,
+2025,Duran,Ezequiel,Rangers,OF,776500,,,
+2025,Koenig,Jared,Brewers,LHP,776300,,,
+2025,Kelly,Kevin,Rays,RHP,776100,,,
+2025,Ortiz,Joey,Brewers,SS,776000,,,
+2025,Slaten,Justin,Red Sox,RHP,776000,,,
+2025,Waldron,Matt,Padres,RHP,775800,,,
+2025,Liberatore,Matthew,Cardinals,LHP,775800,,,
+2025,Palacios,Richie,Rays,OF,775700,,,
+2025,Freeman,Tyler,Rockies,OF,775700,,,
+2025,Faucher,Calvin,Marlins,RHP,775500,,,
+2025,Lowe,Josh,Rays,OF,775100,,,
+2025,Jones,Jared,Pirates,RHP,775000,,,
+2025,Mlodzinski,Carmen,Pirates,RHP,775000,,,
+2025,Wentz,Joey,Pirates,LHP,775000,,,
+2025,Triolo,Jared,Pirates,INF,775000,,,
+2025,Rodriguez,Endy,Pirates,C,775000,,,
+2025,Bae,Ji-hwan,Pirates,2B,775000,,,
+2025,Gonzales,Nick,Pirates,2B,775000,,,
+2025,Garcia,Maikel,Royals,3B,774750,,,
+2025,Irvin,Jake,Nationals,RHP,774600,,,
+2025,Pepiot,Ryan,Rays,RHP,774600,,,
+2025,Cowser,Colton,Orioles,OF,774500,,,
+2025,Bradley,Taj,Rays,RHP,774200,,,
+2025,Dominguez,Jasson,Yankees,OF,774200,,,
+2025,Weissert,Greg,Red Sox,RHP,774000,,,
+2025,Bradford,Cody,Rangers,LHP,774000,,,
+2025,Bernardino,Brennan,Red Sox,LHP,774000,,,
+2025,Gonzalez,Roman,Red Sox,INF,774000,,,
+2025,Baty,Brett,Mets,3B,774000,,,
+2025,Casas,Triston,Red Sox,1B,774000,,,
+2025,Peguero,Elvis,Brewers,RHP,773800,,,
+2025,McArthur,James,Royals,RHP,773750,,,
+2025,Rojas,Johan,Phillies,OF,773500,,,
+2025,Langford,Wyatt,Rangers,OF,773500,,,
+2025,Snider,Collin,Mariners,RHP,773000,,,
+2025,Kerkering,Orion,Phillies,RHP,773000,,,
+2025,Cano,Yennier,Orioles,RHP,772900,,,
+2025,Vasquez,Randy,Padres,RHP,772800,,,
+2025,Julien,Edouard,Twins,2B,772750,,,
+2025,Peraza,Oswald,Yankees,SS,772700,,,
+2025,Westburg,Jordan,Orioles,2B,772700,,,
+2025,Garcia,Robert,Rangers,LHP,772500,,,
+2025,Jarvis,Bryce,Diamondbacks,RHP,772300,,,
+2025,Thompson,Zack,Cardinals,LHP,772200,,,
+2025,Herrera,Jose,Diamondbacks,C,772200,,,
+2025,Edwards,Xavier,Marlins,SS,772000,,,
+2025,Mitchell,Garrett,Brewers,OF,772000,,,
+2025,Blanco,Dairon,Royals,OF,772000,,,
+2025,Bride,Jonah,Marlins,3B,772000,,,
+2025,Frelick,Sal,Brewers,OF,771800,,,
+2025,Morel,Christopher,Rays,OF,771800,,,
+2025,Little,Brendon,Blue Jays,LHP,771800,,,
+2025,Kelly,Zack,Red Sox,RHP,771500,,,
+2025,Santos,Gregory,Mariners,RHP,771100,,,
+2025,Rocchio,Brayan,Guardians,SS,771000,,,
+2025,Cronin,Declan,Marlins,RHP,771000,,,
+2025,Kranick,Max,Mets,RHP,771000,,,
+2025,Crow-Armstrong,Pete,Cubs,OF,771000,,,
+2025,Clemens,Kody,Phillies,INF,771000,,,
+2025,Lee,Korey,White Sox,C,771000,,,
+2025,Winn,Masyn,Cardinals,SS,770850,,,
+2025,Rodriguez,Grayson,Orioles,RHP,770800,,,
+2025,Walker,Jordan,Cardinals,OF,770800,,,
+2025,Wallner,Matt,Twins,OF,770750,,,
+2025,Perez,Wenceel,Tigers,OF,770700,,,
+2025,Vargas,Miguel,White Sox,3B,770400,,,
+2025,Herrera,Ivan,Cardinals,C,770300,,,
+2025,Siani,Mike,Cardinals,OF,770205,,,
+2025,Arias,Gabriel,Guardians,2B,770200,,,
+2025,DeLuca,Jonny,Rays,OF,770100,,,
+2025,Paris,Kyren,Angels,SS,770000,,,
+2025,Alvarez,Nacho,Braves,SS,770000,,,
+2025,De La Cruz,Elly,Reds,SS,770000,,,
+2025,Kochanowicz,Jack,Angels,RHP,770000,,,
+2025,Zeferjahn,Ryan,Angels,RHP,770000,,,
+2025,Dubin,Shawn,Astros,RHP,770000,,,
+2025,Ort,Kaleb,Astros,RHP,770000,,,
+2025,Hernandez,Daysbel,Braves,RHP,770000,,,
+2025,Holmes,Grant,Braves,RHP,770000,,,
+2025,Schwellenbach,Spencer,Braves,RHP,770000,,,
+2025,Smith-Shawver,AJ,Braves,RHP,770000,,,
+2025,Hurt,Kyle,Dodgers,RHP,770000,,,
+2025,Ryan,River,Dodgers,RHP,770000,,,
+2025,Encarnacion,Jerar,Giants,RHP,770000,,,
+2025,Rodriguez,Randy,Giants,RHP,770000,,,
+2025,Soriano,George,Marlins,RHP,770000,,,
+2025,Thompson,Mason,Nationals,RHP,770000,,,
+2025,Bird,Jake,Rockies,RHP,770000,,,
+2025,Bleday,JJ,Athletics,OF,770000,,,
+2025,Pages,Andy,Dodgers,OF,770000,,,
+2025,Jones,Nolan,Guardians,OF,770000,,,
+2025,Sears,J.P.,Athletics,LHP,770000,,,
+2025,Waldichuk,Ken,Athletics,LHP,770000,,,
+2025,Abbott,Andrew,Reds,LHP,770000,,,
+2025,Williamson,Brandon,Reds,LHP,770000,,,
+2025,Langeliers,Shea,Athletics,C,770000,,,
+2025,Wagaman,Eric,Marlins,3B,770000,,,
+2025,McLain,Matt,Reds,2B,770000,,,
+2025,Sosa,Lenyn,White Sox,2B,770000,,,
+2025,Encarnacion-Strand,Christian,Reds,1B,770000,,,
+2025,France,J.P.,Astros,RHP,769900,,,
+2025,Faedo,Alex,Rays,RHP,769900,,,
+2025,Perez,Eury,Marlins,RHP,769500,,,
+2025,Brito,Jhony,Padres,RHP,769500,,,
+2025,Rodriguez,Manuel,Rays,RHP,769400,,,
+2025,Cannon,Jonathan,White Sox,RHP,769100,,,
+2025,Call,Alex,Nationals,OF,769100,,,
+2025,Marsh,Alec,Royals,RHP,769000,,,
+2025,Myers,Dane,Marlins,OF,769000,,,
+2025,Baker,Bryan,Orioles,RHP,768700,,,
+2025,Young,Jacob,Nationals,OF,768700,,,
+2025,Fernandez,Ryan,Cardinals,RHP,768600,,,
+2025,Scholtens,Jesse,White Sox,RHP,768600,,,
+2025,Pages,Pedro,Cardinals,C,768300,,,
+2025,Woods-Richardson,Simeon,Twins,RHP,768250,,,
+2025,Stowers,Kyle,Marlins,OF,768200,,,
+2025,Booser,Cam,White Sox,LHP,768200,,,
+2025,Varland,Louie,Twins,RHP,768150,,,
+2025,Meyer,Max,Marlins,RHP,768000,,,
+2025,Mastrobuoni,Miles,Mariners,INF,768000,,,
+2025,Warren,Will,Yankees,RHP,767600,,,
+2025,Horwitz,Spencer,Pirates,1B,767500,,,
+2025,Parker,Mitchell,Nationals,LHP,767200,,,
+2025,Hurter,Brant,Tigers,LHP,767100,,,
+2025,Leahy,Kyle,Cardinals,RHP,767000,,,
+2025,Hodge,Porter,Cubs,RHP,767000,,,
+2025,Noel,Jhonkensy,Guardians,OF,766900,,,
+2025,Lukes,Nathan,Blue Jays,OF,766800,,,
+2025,Aranda,Jonathan,Rays,DH,766500,,,
+2025,King,Bryan,Astros,LHP,766400,,,
+2025,Alexander,Blaze,Diamondbacks,INF,766300,,,
+2025,Hall,DL,Brewers,LHP,766100,,,
+2025,Povich,Cade,Orioles,LHP,766100,,,
+2025,Baker,Luken,Cardinals,1B,766100,,,
+2025,Hancock,Emerson,Mariners,RHP,766000,,,
+2025,Fitts,Richard,Red Sox,RHP,766000,,,
+2025,Hanifee,Brenan,Tigers,RHP,766000,,,
+2025,Schneemann,Daniel,Guardians,INF,766000,,,
+2025,Acuna,Luisangel,Mets,INF,766000,,,
+2025,Mauricio,Ronny,Mets,INF,766000,,,
+2025,Leasure,Jordan,White Sox,RHP,765800,,,
+2025,Martin,Davis,White Sox,RHP,765450,,,
+2025,Gasser,Robert,Brewers,LHP,765400,,,
+2025,Ferrer,Jose,Nationals,LHP,765400,,,
+2025,Trammell,Taylor,Astros,OF,765200,,,
+2025,Gomez,Yoendrys,Yankees,RHP,765050,,,
+2025,Butler,Lawrence,Athletics,OF,765000,7 (2025-31),65500000,9357142
+2025,Bido,Osvaldo,Athletics,RHP,765000,,,
+2025,Medina,Luis,Athletics,RHP,765000,,,
+2025,Miller,Mason,Athletics,RHP,765000,,,
+2025,Spence,Mitch,Athletics,RHP,765000,,,
+2025,Birdsong,Hayden,Giants,RHP,765000,,,
+2025,Bivens,Spencer,Giants,RHP,765000,,,
+2025,Roupp,Landen,Giants,RHP,765000,,,
+2025,Cecconi,Slade,Guardians,RHP,765000,,,
+2025,Bellozo,Valente,Marlins,RHP,765000,,,
+2025,Spiers,Carson,Reds,RHP,765000,,,
+2025,Vodnik,Victor,Rockies,RHP,765000,,,
+2025,Scheuemann,Max,Athletics,OF,765000,,,
+2025,Doyle,Brenton,Rockies,OF,765000,,,
+2025,Goodman,Hunter,Rockies,OF,765000,,,
+2025,Norby,Conner,Marlins,3B,765000,,,
+2025,Gelof,Zack,Athletics,2B,765000,,,
+2025,Soderstrom,Tyler,Athletics,1B,765000,,,
+2025,Bouchard,Sean,Rockies,1B,765000,,,
+2025,Toglia,Michael,Rockies,1B,765000,,,
+2025,Kreidler,Ryan,Tigers,INF,764900,,,
+2025,Holliday,Jackson,Orioles,2B,764800,,,
+2025,Thorpe,Drew,White Sox,RHP,764750,,,
+2025,Sabrowski,Erik,Guardians,LHP,764700,,,
+2025,Wood,James,Nationals,OF,764600,,,
+2025,Scott,Christian,Mets,RHP,764500,,,
+2025,Jacob,Alek,Padres,RHP,764500,,,
+2025,Garabito,Gerson,Rangers,RHP,764500,,,
+2025,Lee,Brooks,Twins,INF,764450,,,
+2025,Herz,DJ,Nationals,LHP,764200,,,
+2025,Roycroft,Chris,Cardinals,RHP,764150,,,
+2025,Scott II,Victor,Cardinals,OF,764150,,,
+2025,Caminero,Junior,Rays,3B,764100,,,
+2025,Sweeney,Trey,Tigers,SS,764000,,,
+2025,Phillips,Tyler,Marlins,RHP,764000,,,
+2025,Kjerstad,Heston,Orioles,OF,764000,,,
+2025,Wilson,Weston,Phillies,INF,764000,,,
+2025,Dunn,Oliver,Brewers,3B,763700,,,
+2025,Gipson-Long,Sawyer,Tigers,RHP,763600,,,
+2025,Penrod,Zach,Red Sox,LHP,763500,,,
+2025,Narvaez,Carlos,Red Sox,C,763500,,,
+2025,Englert,Mason,Rays,RHP,763400,,,
+2025,Ellard,Fraser,White Sox,LHP,763375,,,
+2025,Beeter,Clayton,Yankees,RHP,763325,,,
+2025,Manzardo,Kyle,Guardians,DH,763200,,,
+2025,Dezenzo,Zach,Astros,1B,763200,,,
+2025,Headrick,Brent,Yankees,LHP,763125,,,
+2025,Reynolds,Sean,Padres,RHP,763100,,,
+2025,Kowar,Jackson,Mariners,RHP,763000,,,
+2025,Wagner,Will,Blue Jays,INF,763000,,,
+2025,Mervis,Matt,Marlins,1B,763000,,,
+2025,Veneziano,Anthony,Marlins,LHP,762925,,,
+2025,Cantillo,Joey,Guardians,LHP,762800,,,
+2025,Bigge,Hunter,Rays,RHP,762700,,,
+2025,Walston,Blake,Diamondbacks,LHP,762700,,,
+2025,Baldwin,Brooks,White Sox,SS,762625,,,
+2025,Berroa,Prelander,White Sox,RHP,762625,,,
+2025,Ramos,Bryan,White Sox,3B,762625,,,
+2025,Dingler,Dillon,Tigers,C,762600,,,
+2025,Brown,Ben,Cubs,RHP,762500,,,
+2025,Casparius,Ben,Dodgers,RHP,762500,,,
+2025,Bachar,Lake,Marlins,RHP,762500,,,
+2025,Leiter,Jack,Rangers,RHP,762500,,,
+2025,Conine,Griffin,Marlins,1B,762500,,,
+2025,Henriquez,Edgardo,Dodgers,,762500,,,
+2025,Gasper,Mickey,Twins,INF,762450,,,
+2025,Tena,Jose,Nationals,INF,762400,,,
+2025,Uribe,Abner,Brewers,RHP,762200,,,
+2025,Salazar,Eduardo,Nationals,RHP,762200,,,
+2025,McDermott,Chayce,Orioles,RHP,762200,,,
+2025,Mead,Curtis,Rays,INF,762200,,,
+2025,Amaya,Jacob,White Sox,SS,762125,,,
+2025,Bliss,Ryan,Mariners,2B,762100,,,
+2025,Blalock,Bradley,Rockies,RHP,762000,,,
+2025,Chivilli,Angel,Rockies,RHP,762000,,,
+2025,Criswell,Jeff,Rockies,RHP,762000,,,
+2025,Halvorsen,Seth,Rockies,RHP,762000,,,
+2025,Beck,Jordan,Rockies,OF,762000,,,
+2025,Murphy,Chris,Red Sox,LHP,762000,,,
+2025,Peralta,Luis,Rockies,LHP,762000,,,
+2025,Crews,Dylan,Nationals,OF,761800,,,
+2025,Montgomery,Mason,Rays,LHP,761800,,,
+2025,Taylor,Troy,Mariners,RHP,761700,,,
+2025,Rocker,Kumar,Rangers,RHP,761500,,,
+2025,Aguiar,Julian,Reds,RHP,761500,,,
+2025,Lowder,Rhett,Reds,RHP,761500,,,
+2025,Sanoja,Javier,Marlins,OF,761500,,,
+2025,Dunn,Blake,Reds,OF,761500,,,
+2025,Hurtubise,Jacob,Reds,OF,761500,,,
+2025,Pauley,Graham,Marlins,3B,761500,,,
+2025,Madden,Ty,Tigers,RHP,761400,,,
+2025,Contreras,Luis,Astros,RHP,761300,,,
+2025,Keirsey Jr.,DaShawn,Twins,OF,761250,,,
+2025,Vargas,Carlos,Mariners,RHP,761200,,,
+2025,Collins,Isaac,Brewers,OF,761100,,,
+2025,Capra,Vinny,Brewers,INF,761100,,,
+2025,Jobe,Jackson,Tigers,RHP,760900,,,
+2025,Rodrigiez,Jonathan,Guardians,Of,760900,,,
+2025,Whitley,Forrest,Astros,RHP,760800,,,
+2025,Eisert,Brandon,White Sox,RHP,760800,,,
+2025,Bush,Ky,White Sox,LHP,760800,,,
+2025,Misner,Kameron,Rays,OF,760700,,,
+2025,Church,Marc,Rangers,RHP,760500,,,
+2025,Brzykcy,Zach,Nationals,RHP,760400,,,
+2025,Leon,Pedro,Astros,OF,760400,,,
+2025,Burke,Sean,White Sox,RHP,760350,,,
+2025,Ribalta,Orlando,Nationals,RHP,760300,,,
+2025,Lockridge,Brandon,Padres,OF,760300,,,
+2025,Cavalli,Cade,Nationals,RHP,760200,,,
+2025,Wilson,Jacob,Athletics,SS,760000,,,
+2025,Johnson,Ryan,Angels,RHP,760000,,,
+2025,Gusto,Ryan,Astros,RHP,760000,,,
+2025,Estes,Joey,Athletics,RHP,760000,,,
+2025,Ferguson,Tyler,Athletics,RHP,760000,,,
+2025,Murdock,Noah,Athletics,RHP,760000,,,
+2025,Otanez,Michel,Athletics,RHP,760000,,,
+2025,Sterner,Justin,Athletics,RHP,760000,,,
+2025,Bastardo,Angel,Blue Jays,RHP,760000,,,
+2025,Patrick,Chad,Brewers,RHP,760000,,,
+2025,Sasaki,Roki,Dodgers,RHP,760000,,,
+2025,Lord,Brad,Nationals,RHP,760000,,,
+2025,Smith,Shane,White Sox,RHP,760000,,,
+2025,Vasil,Mike,White Sox,RHP,760000,,,
+2025,Smith,Cam,Astros,OF,760000,,,
+2025,Roden,Alan,Blue Jays,OF,760000,,,
+2025,McDaniels,Garrett,Angels,LHP,760000,,,
+2025,Basso,Brady,Athletics,LHP,760000,,,
+2025,Harris,Hogan,Athletics,LHP,760000,,,
+2025,Thomas,Connor,Brewers,LHP,760000,,,
+2025,Dreyer,Jack,Dodgers,LHP,760000,,,
+2025,Cruz,Omar,Padres,LHP,760000,,,
+2025,Lavender,Nate,Rays,LHP,760000,,,
+2025,Workman,Gage,Cubs,INF,760000,,,
+2025,Koss,Christian,Giants,INF,760000,,,
+2025,Pereda,Jhonny,Athletics,C,760000,,,
+2025,Baldwin,Drake,Braves,C,760000,,,
+2025,Hicks,Liam,Marlins,C,760000,,,
+2025,Senger,Hayden,Mets,C,760000,,,
+2025,Escarra,JC,Yankees,C,760000,,,
+2025,Harris,Brett,Athletics,3B,760000,,,
+2025,Shaw,Matt,Cubs,3B,760000,,,
+2025,Muncy,Max,Athletics,2B,760000,,,
+2025,Campbell,Kristian,Red Sox,2B,760000,,,
+2025,Franco,Wander,Rays,SS,454545,,,
